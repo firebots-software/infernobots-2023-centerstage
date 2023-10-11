@@ -2,15 +2,15 @@
 <variables>
 <variable id="OlJB[R?bruF2C6T]y:j,">myTfodRecognitions</variable>
 <variable id="3.)/eLHm(iRl1^Qsq;Hb">USE_WEBCAM</variable>
-<variable id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</variable>
 <variable id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</variable>
+<variable id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</variable>
 <variable id="0(Iv9ie]^GJxK3,fL}G(">myTfodRecognition</variable>
-<variable id="9LhgCVY4h#^=FTKe,;(t">AprilTagPortal</variable>
 <variable id="Xk!_{IPng0#/P|7dx?3N">myVisionPortal</variable>
+<variable id="oZnT^~y[vmTe~RS{}f5m">AprilTag Portal</variable>
 <variable id="h_4q]^+cuMwY?7E#7$Pc">x</variable>
 <variable id="R{3+3{j6;,uRMizwTeH6">y</variable>
 </variables>
-<block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="-754" y="-303">
+<block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="0" y="0">
 <field name="NAME">runOpMode</field>
 <comment pinned="false" h="45" w="532">This function is executed when this OpMode is selected from the Driver Station.</comment>
 <statement name="STACK">
@@ -29,7 +29,7 @@
 <mutation name="initTfod"/>
 <comment pinned="false" h="60" w="270">Initialize TFOD before waitForStart.</comment>
 <next>
-<block type="procedures_callnoreturn" id="Au@sWB;zD/akYOLPFIdJ">
+<block type="procedures_callnoreturn" id="A~k@epbGDHvelUGJ)H7d">
 <mutation name="initAprilTag"/>
 <next>
 <block type="comment" id="/TX8,^RvHuP6X%R,Py^^">
@@ -123,38 +123,38 @@
 </block>
 </statement>
 <next>
-<block type="controls_if" id="dSa2p~{WEk%2V|MBuMDS">
+<block type="controls_if" id="t56k2OcJq4$VxFIep+|-">
 <mutation elseif="1"/>
 <value name="IF0">
-<block type="gamepad_getProperty_Boolean" id="*fk^payX{[7S23@V~~+H">
+<block type="gamepad_getProperty_Boolean" id="+X9^i3oUx{M^a|t:`ZJ2">
 <field name="IDENTIFIER">gamepad1</field>
 <field name="PROP">DpadDown</field>
 <data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
 <statement name="DO0">
-<block type="visionPortal_stopStreaming" id="W7#9S3Axs!UN8mGY}kHo">
+<block type="visionPortal_stopStreaming" id="Uch~_r[$!^FQ+T/v9w_f">
 <comment pinned="false" h="150" w="325">Temporarily stop the streaming session.</comment>
 <value name="VISION_PORTAL">
-<block type="variables_get" id="tXlx:`{B,hdZ[]=^(gzP">
-<field name="VAR" id="9LhgCVY4h#^=FTKe,;(t">AprilTagPortal</field>
+<block type="variables_get" id="kIy5+~M[/.dF9dBPEh}.">
+<field name="VAR" id="oZnT^~y[vmTe~RS{}f5m">AprilTag Portal</field>
 </block>
 </value>
 </block>
 </statement>
 <value name="IF1">
-<block type="gamepad_getProperty_Boolean" id="KF%Ni(k[x6(%jOE,DUQX">
+<block type="gamepad_getProperty_Boolean" id="}hEK:aT/^NH4yri*eni(">
 <field name="IDENTIFIER">gamepad1</field>
 <field name="PROP">DpadUp</field>
 <data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
 <statement name="DO1">
-<block type="visionPortal_resumeStreaming" id="|emw[0UN[7f]._POxJA+">
+<block type="visionPortal_resumeStreaming" id="S3Z;:5Jlmduf#lxD)}bf">
 <comment pinned="false" h="150" w="325">Resume the streaming session if previously stopped.</comment>
 <value name="VISION_PORTAL">
-<block type="variables_get" id="EG7cog3=;F/1(s`5!dfy">
-<field name="VAR" id="9LhgCVY4h#^=FTKe,;(t">AprilTagPortal</field>
+<block type="variables_get" id="=(zjKE.(@~}8R`A-IvbB">
+<field name="VAR" id="oZnT^~y[vmTe~RS{}f5m">AprilTag Portal</field>
 </block>
 </value>
 </block>
@@ -204,41 +204,111 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="kmCRG0.bi2Uu=;l7kN%C" x="-8" y="146">
-<field name="NAME">initAprilTag</field>
-<comment pinned="false" h="80" w="160">Initialize AprilTag Detection.</comment>
+<block type="procedures_defnoreturn" id=":Un!nS!LS%^tq]:g4^?Z" x="-432" y="827">
+<field name="NAME">initTfod</field>
+<comment pinned="false" h="80" w="160">Initialize TensorFlow Object Detection.</comment>
 <statement name="STACK">
-<block type="comment" id="e+{c83Ra^%?i!gzhBnb(">
-<field name="COMMENT">First, create an AprilTagProcessor.</field>
+<block type="comment" id="d.6#F{^$gM[hYq-pIL_d">
+<field name="COMMENT">First, create a TfodProcessor.</field>
 <next>
-<block type="variables_set" id="{xlZv-}n,~lJ_J5VP6i/">
-<field name="VAR" id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</field>
+<block type="variables_set" id="OSPSid-xCavf1!4^2aXU">
+<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
 <value name="VALUE">
-<block type="aprilTagProcessor_easyCreateWithDefaults" id="I{LhOZn.;~Ey1ot)U=^C"/>
+<block type="tfodProcessor_easyCreateWithDefaults" id="wfDu11o1*%E]nrqy#B4q"/>
 </value>
 <next>
-<block type="comment" id="vWjCQM0e,-O07VM0P%wu">
+<block type="comment" id="w{nzs#L5ZbP.GKW2S`x_">
 <field name="COMMENT">Next, create a VisionPortal.</field>
 <next>
-<block type="controls_if" id="C0-Jl!J~2N$NL4-*}g.7">
+<block type="controls_if" id="T`t))DI)e(S6b*Xls7U=">
 <mutation else="1"/>
 <value name="IF0">
-<block type="variables_get" id="YqgDm+{uU#}8]jET2Z^h">
+<block type="variables_get" id="Zr+H]wQb_aiB|J+{-0:G">
 <field name="VAR" id="3.)/eLHm(iRl1^Qsq;Hb">USE_WEBCAM</field>
 </block>
 </value>
 <statement name="DO0">
-<block type="variables_set" id="#wN.e!V,y/iUPN2BN7DY">
-<field name="VAR" id="9LhgCVY4h#^=FTKe,;(t">AprilTagPortal</field>
+<block type="variables_set" id="#Z`y%Cib0j|fep0#y(/]">
+<field name="VAR" id="Xk!_{IPng0#/P|7dx?3N">myVisionPortal</field>
 <value name="VALUE">
-<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="^BZSAQH68Y?^5LXt^?(H">
+<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="`Kg;s;IN]EJ^z:ra_]{}">
 <value name="CAMERA">
-<shadow type="navigation_webcamName" id="d^Rvee*@HkBF?$bHeo]l">
+<shadow type="navigation_webcamName" id="b`AjugjMrzm855@U*q;W">
 <field name="WEBCAM_NAME">Webcam 1</field>
 </shadow>
 </value>
 <value name="VISION_PROCESSOR">
-<block type="variables_get" id="~jlDLtq%|H,2sY)Zoj7U">
+<block type="variables_get" id="m/$@_O^h-AZv1Z@c#wCU">
+<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<statement name="ELSE">
+<block type="variables_set" id="aL3Io:AMqm8LGlNCSQh_">
+<field name="VAR" id="Xk!_{IPng0#/P|7dx?3N">myVisionPortal</field>
+<value name="VALUE">
+<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="$[=q8@9RfP6%HROcbeEm">
+<value name="CAMERA">
+<shadow type="navigation_typedEnum_builtinCameraDirection" id="kV=jU*dSZ)GHu_bvKIT%">
+<field name="CAMERA_DIRECTION">BACK</field>
+</shadow>
+</value>
+<value name="VISION_PROCESSOR">
+<block type="variables_get" id="LvdZw]vndC%fvI(d0K+%">
+<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
+<block type="procedures_defnoreturn" id="YVZ(iLTHZ]9l7Y_]-cqP" x="880" y="866">
+<field name="NAME">initAprilTag</field>
+<comment pinned="false" h="80" w="160">Initialize AprilTag Detection.</comment>
+<statement name="STACK">
+<block type="comment" id="h:%HV^SLK7[{aVJRu6~y">
+<field name="COMMENT">First, create an AprilTagProcessor.</field>
+<next>
+<block type="variables_set" id="^,WN{^B+Q=t5[Jg);7xk">
+<field name="VAR" id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</field>
+<value name="VALUE">
+<block type="aprilTagProcessor_easyCreateWithDefaults" id="7(#JS7eD5k?3m+oXdQA#"/>
+</value>
+<next>
+<block type="comment" id="lL1OM]Bhx3%)1@a`sjo0">
+<field name="COMMENT">Next, create a VisionPortal.</field>
+<next>
+<block type="controls_if" id="4[@*^L!@nB~Vs{^:M(%U">
+<mutation else="1"/>
+<value name="IF0">
+<block type="variables_get" id="mfV6Yi9z+;ODA~oQA+7S">
+<field name="VAR" id="3.)/eLHm(iRl1^Qsq;Hb">USE_WEBCAM</field>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="%VwIRx.)Z|G_bILwjGt]">
+<field name="VAR" id="oZnT^~y[vmTe~RS{}f5m">AprilTag Portal</field>
+<value name="VALUE">
+<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="TH8IicdmQZLm]iP8^G1V">
+<value name="CAMERA">
+<shadow type="navigation_webcamName" id="G5a-UK,xCz^|p]+xz18`">
+<field name="WEBCAM_NAME">Webcam 2</field>
+</shadow>
+</value>
+<value name="VISION_PROCESSOR">
+<block type="variables_get" id="m@M4)I)jF0l};h/|*-)g">
 <field name="VAR" id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</field>
 </block>
 </value>
@@ -247,17 +317,17 @@
 </block>
 </statement>
 <statement name="ELSE">
-<block type="variables_set" id=")uOIiukQy8*/=68$y1h:">
-<field name="VAR" id="9LhgCVY4h#^=FTKe,;(t">AprilTagPortal</field>
+<block type="variables_set" id="[]BeD/u5/ViP5tN[Bm,o">
+<field name="VAR" id="oZnT^~y[vmTe~RS{}f5m">AprilTag Portal</field>
 <value name="VALUE">
-<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id=";kl17v~Dr(zuD!9+C?3N">
+<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="9JPyBD1~fY}0/ttw0rnD">
 <value name="CAMERA">
-<shadow type="navigation_typedEnum_builtinCameraDirection" id="qx(WRK$r1O8}yhcX(eQl">
+<shadow type="navigation_typedEnum_builtinCameraDirection" id="0wP@^MD@f?OwauH+7=?z">
 <field name="CAMERA_DIRECTION">BACK</field>
 </shadow>
 </value>
 <value name="VISION_PROCESSOR">
-<block type="variables_get" id="axzrFK7[m^pSp}@[fw~U">
+<block type="variables_get" id="DpkbT$$eb0Y!`|Uzd^e/">
 <field name="VAR" id="?.?jAjDXaP~!^(jq/Ls_">myAprilTagProcessor</field>
 </block>
 </value>
@@ -274,7 +344,7 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="/s7LjfD#rDF}9WK/VZch" x="234" y="542">
+<block type="procedures_defnoreturn" id="/s7LjfD#rDF}9WK/VZch" x="0" y="1153">
 <field name="NAME">telemetryTfod</field>
 <comment pinned="false" h="80" w="160">Display info (using telemetry) for a detected object</comment>
 <statement name="STACK">
@@ -648,76 +718,6 @@
 </next>
 </block>
 </statement>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id=":Un!nS!LS%^tq]:g4^?Z" x="-761" y="670">
-<field name="NAME">initTfod</field>
-<comment pinned="false" h="80" w="160">Initialize TensorFlow Object Detection.</comment>
-<statement name="STACK">
-<block type="comment" id="d.6#F{^$gM[hYq-pIL_d">
-<field name="COMMENT">First, create a TfodProcessor.</field>
-<next>
-<block type="variables_set" id="OSPSid-xCavf1!4^2aXU">
-<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
-<value name="VALUE">
-<block type="tfodProcessor_easyCreateWithDefaults" id="wfDu11o1*%E]nrqy#B4q"/>
-</value>
-<next>
-<block type="comment" id="w{nzs#L5ZbP.GKW2S`x_">
-<field name="COMMENT">Next, create a VisionPortal.</field>
-<next>
-<block type="controls_if" id="T`t))DI)e(S6b*Xls7U=">
-<mutation else="1"/>
-<value name="IF0">
-<block type="variables_get" id="Zr+H]wQb_aiB|J+{-0:G">
-<field name="VAR" id="3.)/eLHm(iRl1^Qsq;Hb">USE_WEBCAM</field>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="#Z`y%Cib0j|fep0#y(/]">
-<field name="VAR" id="Xk!_{IPng0#/P|7dx?3N">myVisionPortal</field>
-<value name="VALUE">
-<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="`Kg;s;IN]EJ^z:ra_]{}">
-<value name="CAMERA">
-<shadow type="navigation_webcamName" id="b`AjugjMrzm855@U*q;W">
-<field name="WEBCAM_NAME">Webcam 2</field>
-</shadow>
-</value>
-<value name="VISION_PROCESSOR">
-<block type="variables_get" id="m/$@_O^h-AZv1Z@c#wCU">
-<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="aL3Io:AMqm8LGlNCSQh_">
-<field name="VAR" id="Xk!_{IPng0#/P|7dx?3N">myVisionPortal</field>
-<value name="VALUE">
-<block type="visionPortal_easyCreateWithDefaults_oneProcessor" id="$[=q8@9RfP6%HROcbeEm">
-<value name="CAMERA">
-<shadow type="navigation_typedEnum_builtinCameraDirection" id="kV=jU*dSZ)GHu_bvKIT%">
-<field name="CAMERA_DIRECTION">BACK</field>
-</shadow>
-</value>
-<value name="VISION_PROCESSOR">
-<block type="variables_get" id="LvdZw]vndC%fvI(d0K+%">
-<field name="VAR" id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-</block>
-</next>
 </block>
 </next>
 </block>
