@@ -17,7 +17,6 @@
 <variable id="Djo[d)MCw!~(Ca0{oUzz">DpadDown</variable>
 <variable id="{kR*!Ph`/Jw!w!-j7rEr">OutakingPixelsOnBackdrop</variable>
 <variable id="K7U-zB{/wYeO*|D6GBre">IntakingPixels</variable>
-<variable id="7~?S^L]E[R9o6I;y:DTY">Shrinking</variable>
 <variable id="!jn,5P.K/^J,)YZn@%b:">Climbing</variable>
 <variable id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</variable>
 <variable id="`!Y_SntT^8%I`_dH{M4d">LeftIntakePosition</variable>
@@ -31,42 +30,42 @@
 <variable id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</variable>
 <variable id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</variable>
 <variable id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</variable>
+<variable id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</variable>
 <variable id="%QiDH/le8?L!$.dATdFV">LowSpeedForElbow</variable>
 <variable id="77%kv^TQSMC/a$@r}+JC">BackRightSpeedForWheels</variable>
-<variable id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</variable>
-<variable id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</variable>
-<variable id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</variable>
+<variable id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</variable>
 <variable id="Bd6JT2q-d7^OJ10*H+PF">HighSpeedForElbow</variable>
 <variable id="Y2Ld{}neha[Xf4$[mM#z">BackLeftSpeedForWheels</variable>
-<variable id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</variable>
-<variable id="1m$Y;Q8*;?rg?=0:r)hZ">WristShrinkPosition</variable>
-<variable id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</variable>
+<variable id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</variable>
 <variable id="}Jm)-X`fsRVH}X=BjJYm">LowSpeedForErecting</variable>
 <variable id="A%y~6wjw,{m#W-zmg)CM">CLOCKWISE</variable>
 <variable id="qZgX_t6MFE}8;^f}EV2H">ScalingMultiplierForExtendingPosition</variable>
 <variable id="R+dU%dGdan)h@lpeftA[">MaxExtensionPosition</variable>
 <variable id="6to)A6bl^t8Pfi78Bs=2">ScalingMultiplierForElbowPosition</variable>
 <variable id="jkX-w+T$Qc~hdD0r26yg">MaxWristRange</variable>
-<variable id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</variable>
-<variable id="rwzHSPUT^dRnL4B.UIO{">ElbowShrinkPosition</variable>
 <variable id=",$%{QOwX]+WF.V`{}rsj">HighSpeedForErecting</variable>
 <variable id="^Xbe%AvR5*EU9ih/Fy,H">ANTICLOCKWISE</variable>
 <variable id="q}-UQN7Mf]6bFywa?W,~">MinExtensionPosition</variable>
 <variable id="D!X}ei98^Ml#Hk6}{u{w">MaxElbowPos</variable>
 <variable id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</variable>
-<variable id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</variable>
 <variable id="HkU46vmw13g+%^UIsuvj">WristPositionForIntake</variable>
-<variable id="2_9^j11vQ_y2@WIa?ceK">ExtensionShrinkPosition</variable>
-<variable id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</variable>
 <variable id="vV-#-/=2EmY*a^poLH?/">BrakeNumForElbowMotor</variable>
 <variable id="X:z8N;$q7KO9)yTHwBPt">MinElbowPosition</variable>
-<variable id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</variable>
 <variable id="~G@$Nn)hQK-yh;*?C^_q">PositionOfElbowForIntake</variable>
-<variable id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</variable>
+<variable id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</variable>
 <variable id="tWEEY^Y.YJLBZa}W-.hS">SlowArmRangeLow</variable>
 <variable id="b]x.Fd(,o9YUr+Gs?`se">MinAirplaneRange</variable>
 <variable id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</variable>
+<variable id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</variable>
+<variable id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</variable>
 <variable id="j/w:cMN|;G.qEa?%?KaT">SlowArmRangeHigh</variable>
+<variable id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</variable>
+<variable id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</variable>
+<variable id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</variable>
+<variable id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</variable>
+<variable id="2_9^j11vQ_y2@WIa?ceK">ExtensionShrinkPosition</variable>
+<variable id="1m$Y;Q8*;?rg?=0:r)hZ">WristShrinkPosition</variable>
+<variable id="rwzHSPUT^dRnL4B.UIO{">ElbowShrinkPosition</variable>
 </variables>
 <block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="-959" y="-333">
 <field name="NAME">runOpMode</field>
@@ -222,9 +221,10 @@
 </value>
 <next>
 <block type="procedures_callnoreturn" id="c2EaB]xat;FXCq?^Q-M1">
-<mutation name="OutakePixelsOnBackdrop">
+<mutation name="SettingPresets">
 <arg name="OutakingPixelsOnBackdrop"/>
 <arg name="IntakingPixels"/>
+<arg name="Climbing"/>
 </mutation>
 <value name="ARG0">
 <block type="gamepad_getProperty_Boolean" id="/6JVoL-dG]VP|.Z#vjh@">
@@ -240,6 +240,13 @@
 <data>{"IDENTIFIER":"gamepad2"}</data>
 </block>
 </value>
+<value name="ARG2">
+<block type="gamepad_getProperty_Boolean" id="mS,=(yc]7QQ(zKAr4;:k">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">B</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
 <next>
 <block type="procedures_callnoreturn" id="t?ep*j}XHti_:pq$MrWh">
 <mutation name="AirplaneLauncher">
@@ -248,48 +255,20 @@
 </mutation>
 <value name="ARG0">
 <block type="gamepad_getProperty_Boolean" id="fc?hZ-JE`.p.xbS$#G@;">
-<field name="IDENTIFIER">gamepad2</field>
-<field name="PROP">DpadLeft</field>
-<data>{"IDENTIFIER":"gamepad2"}</data>
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">B</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
 <value name="ARG1">
 <block type="gamepad_getProperty_Boolean" id="Yj0EFaT|~?NN1pTqf^)A">
-<field name="IDENTIFIER">gamepad2</field>
+<field name="IDENTIFIER">gamepad1</field>
 <field name="PROP">DpadRight</field>
-<data>{"IDENTIFIER":"gamepad2"}</data>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="ok[nfR~KC!BZSR$0=aq6">
-<mutation name="ShrinkPosition">
-<arg name="Shrinking"/>
-</mutation>
-<value name="ARG0">
-<block type="gamepad_getProperty_Boolean" id="O@):Zu3?5yjq-g+rW{jp">
-<field name="IDENTIFIER">gamepad2</field>
-<field name="PROP">B</field>
-<data>{"IDENTIFIER":"gamepad2"}</data>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="|VAj$)Mu3m7K-^Fk!`L5">
-<mutation name="ClimbPosition">
-<arg name="Climbing"/>
-</mutation>
-<value name="ARG0">
-<block type="gamepad_getProperty_Boolean" id="1^ZRPlKq#LTslw!/R/qZ">
-<field name="IDENTIFIER">gamepad2</field>
-<field name="PROP">Y</field>
-<data>{"IDENTIFIER":"gamepad2"}</data>
+<data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
 <next>
 <block type="telemetry_update" id="/XyDr)v(Lpi_}JSY?V86"/>
-</next>
-</block>
-</next>
-</block>
 </next>
 </block>
 </next>
@@ -400,7 +379,7 @@
 <field name="VAR" id="jkX-w+T$Qc~hdD0r26yg">MaxWristRange</field>
 <value name="VALUE">
 <block type="math_number" id="W|J%HlvXEMKvS0dt94PB">
-<field name="NUM">0.6</field>
+<field name="NUM">0.75</field>
 </block>
 </value>
 <next>
@@ -408,7 +387,7 @@
 <field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
 <value name="VALUE">
 <block type="math_number" id="bFnp7px;]@3Y8daz-%WS">
-<field name="NUM">0.13</field>
+<field name="NUM">0.34</field>
 </block>
 </value>
 <next>
@@ -432,7 +411,7 @@
 <field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
 <value name="VALUE">
 <block type="math_number" id="]?Lr(GPO3x9G@3f6;RSk">
-<field name="NUM">0.13</field>
+<field name="NUM">0.34</field>
 </block>
 </value>
 <next>
@@ -527,8 +506,21 @@
 <block type="variables_set" id="wG`YyqPU~m;5i%P(mn##">
 <field name="VAR" id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</field>
 <value name="VALUE">
-<block type="math_number" id="QIb!YInqO9qSq(S+9kAJ">
-<field name="NUM">0.4</field>
+<block type="math_arithmetic" id="%p%WO=s57.]4Bum{u4iU">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number" id="2`P]+Jyr@,qn$l:%W]01">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="7Lzozp;#=dqRP(Id|#9W">
+<field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="qb!1K=MNdB6DsjAiwBd~">
+<field name="NUM">0.26</field>
+</shadow>
+</value>
 </block>
 </value>
 <next>
@@ -536,7 +528,7 @@
 <field name="VAR" id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</field>
 <value name="VALUE">
 <block type="math_number" id="1kUeg{V`lG7}4YuTuud6">
-<field name="NUM">419</field>
+<field name="NUM">376</field>
 </block>
 </value>
 <next>
@@ -544,15 +536,28 @@
 <field name="VAR" id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</field>
 <value name="VALUE">
 <block type="math_number" id="vyvI|voIyj%IVXv.MkX}">
-<field name="NUM">521</field>
+<field name="NUM">1410</field>
 </block>
 </value>
 <next>
 <block type="variables_set" id="OXYX01jj`83~CS(:Xm9^">
 <field name="VAR" id="HkU46vmw13g+%^UIsuvj">WristPositionForIntake</field>
 <value name="VALUE">
-<block type="math_number" id="5qREuf6X0I`aX*%4^_5u">
-<field name="NUM">0.46</field>
+<block type="math_arithmetic" id="tH(!0Ln/:.E7,jF~fCPU">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number" id="KP-v1Q35B0-q:S?y_3u-">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Jt*Bk/.)+)X}=grM~JtB">
+<field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="sw8R|Rd=.n(S1S`Nm,*@">
+<field name="NUM">0.39</field>
+</shadow>
+</value>
 </block>
 </value>
 <next>
@@ -560,7 +565,7 @@
 <field name="VAR" id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</field>
 <value name="VALUE">
 <block type="math_number" id="7q,#+.FDHWK91@t+%a=y">
-<field name="NUM">1018.0429572798312</field>
+<field name="NUM">1217</field>
 </block>
 </value>
 <next>
@@ -576,7 +581,7 @@
 <field name="VAR" id="z8gp]=LpLch[KO]X59/r">PositionOfAirplaneLauncher</field>
 <value name="VALUE">
 <block type="math_number" id=":tjThK9a8-RMX:M95Ql(">
-<field name="NUM">1</field>
+<field name="NUM">0</field>
 </block>
 </value>
 <next>
@@ -584,7 +589,7 @@
 <field name="VAR" id="b]x.Fd(,o9YUr+Gs?`se">MinAirplaneRange</field>
 <value name="VALUE">
 <block type="math_number" id="*1tcME*JR+ihWAN8?:O@">
-<field name="NUM">1</field>
+<field name="NUM">0</field>
 </block>
 </value>
 <next>
@@ -631,8 +636,21 @@
 <block type="variables_set" id="w,6DJlX@XH54)eUPsiTM">
 <field name="VAR" id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</field>
 <value name="VALUE">
-<block type="math_number" id="%b*fQ5|wTO1`-cbc)cva">
-<field name="NUM">0.41000000000000025</field>
+<block type="math_arithmetic" id="*5^O(mP*:@HTKEbnJuS8">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="dg,5Phh)tE[@},7bnE,b">
+<field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="_73y.y@H03_#f{[xlxK|">
+<field name="NUM">0.28</field>
+</shadow>
+</value>
 </block>
 </value>
 <next>
@@ -648,7 +666,7 @@
 <field name="VAR" id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</field>
 <value name="VALUE">
 <block type="math_number" id="lWFnWs^}xD%Vs0=G:9Pa">
-<field name="NUM">964.9436804652214</field>
+<field name="NUM">928</field>
 </block>
 </value>
 </block>
@@ -734,7 +752,7 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="MZq/HWuSbnu[,.nWhw#*" x="548" y="-339">
+<block type="procedures_defnoreturn" id="MZq/HWuSbnu[,.nWhw#*" x="252" y="-32">
 <mutation>
 <arg name="RightIntake" varid="~0%{MkR4%uwVJXB+t4-)"/>
 <arg name="RightOutake" varid="[9-g}9}}_5cqD9fmpMbY"/>
@@ -870,7 +888,7 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="o@[Z@1yw1XoFI}t^8+C0" x="583" y="81">
+<block type="procedures_defnoreturn" id="o@[Z@1yw1XoFI}t^8+C0" x="893" y="55">
 <field name="NAME">ResettingEncoder</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
@@ -1028,7 +1046,7 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="GECI4I^z4va(mGbDfhV#" x="153" y="438">
+<block type="procedures_defnoreturn" id="GECI4I^z4va(mGbDfhV#" x="195" y="459">
 <mutation>
 <arg name="pivot" varid="h|V~]%9IyuTz*!W5#]b/"/>
 <arg name="left-right" varid="I9$}pRQ`},VgMFr.Yza/"/>
@@ -1437,7 +1455,7 @@
 <field name="VAR" id="z8gp]=LpLch[KO]X59/r">PositionOfAirplaneLauncher</field>
 <value name="VALUE">
 <block type="math_number" id="R_E|Z0Ri]Yk16,.kUoMz">
-<field name="NUM">0.5</field>
+<field name="NUM">1</field>
 </block>
 </value>
 </block>
@@ -1464,7 +1482,7 @@
 <field name="VAR" id="z8gp]=LpLch[KO]X59/r">PositionOfAirplaneLauncher</field>
 <value name="VALUE">
 <block type="math_number" id="O]_AXOcR5My@_?Ki{pzx">
-<field name="NUM">1</field>
+<field name="NUM">0</field>
 </block>
 </value>
 </block>
@@ -1834,7 +1852,7 @@
 <data>{"IDENTIFIER":"elbow-arm"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="k#lRFGu=SYpy:GbvSfk]">
-<field name="NUM">0.5</field>
+<field name="NUM">1</field>
 </shadow>
 </value>
 <next>
@@ -2115,6 +2133,25 @@
 <field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
 </block>
 </value>
+<next>
+<block type="telemetry_addNumericData_Number" id="$?`abVuVw5pqD(x!Ig9p">
+<value name="KEY">
+<shadow type="text" id="w9^fGFjtdK^Pj2;sClB$">
+<field name="TEXT">Actual Wrist Position:</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="servo_getProperty_Number" id=";K;2!P_lNrV6Hn-BPm;l">
+<field name="IDENTIFIER">wristservoAsServo</field>
+<field name="PROP">Position</field>
+<data>{"IDENTIFIER":"wrist-servo"}</data>
+</block>
+</value>
+</block>
+</next>
 </block>
 </next>
 </block>
@@ -2128,36 +2165,19 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="IFS-*~45RJjln]BV5:b5" x="-228" y="1306">
+<block type="procedures_defnoreturn" id="IFS-*~45RJjln]BV5:b5" x="-193" y="1329">
 <mutation>
 <arg name="OutakingPixelsOnBackdrop" varid="{kR*!Ph`/Jw!w!-j7rEr"/>
 <arg name="IntakingPixels" varid="K7U-zB{/wYeO*|D6GBre"/>
+<arg name="Climbing" varid="!jn,5P.K/^J,)YZn@%b:"/>
 </mutation>
-<field name="NAME">OutakePixelsOnBackdrop</field>
+<field name="NAME">SettingPresets</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
 <block type="controls_if" id="J[%e#dO^q%@vOxTgRLwQ">
 <value name="IF0">
 <block type="variables_get" id="Tv;5YdZ4iQ0hGNy^1[YZ">
 <field name="VAR" id="{kR*!Ph`/Jw!w!-j7rEr">OutakingPixelsOnBackdrop</field>
-</block>
-</value>
-<statement name="DO0">
-<block type="controls_if" id="vHm37o~I=F+CP{ev4.@x">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="G]-O7J?LJs!I]-j]d(7}">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="!X:JW+)OXmx|8!$ay%8J">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="U;mu2d2YqY@E5t#9_7t:">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
 </block>
 </value>
 <statement name="DO0">
@@ -2168,48 +2188,6 @@
 <field name="BOOL">TRUE</field>
 </block>
 </value>
-<next>
-<block type="variables_set" id="E,-yJ$@jOt+=_5M:c6$:">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="H{ZOy.X5p6?c3C7~s?vt">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="y5aPfQ%h|9E~_yy1JSED">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="?PvaiG{=.n8NxY:e8U{f">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="EkMnp(maubi:p1[t1cS^">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="-0X6*#$*{l3:7~[Bfs1S">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="~N(8^*e(bpzaL@$(~cnr">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="tF0r,JrZ71]HN:d!a@HS">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</statement>
 </block>
 </statement>
 <next>
@@ -2220,24 +2198,6 @@
 </block>
 </value>
 <statement name="DO0">
-<block type="controls_if" id="(5_beJe!*M)^-c~%g1{P">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="K~(NZb/{u:?:ILY4iSWH">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="#iU`2YFTXZX;BlHo[e8{">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="k]hi1(,GWLjgki6/.})~">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
 <block type="variables_set" id="5F8sB2hoMF7HjK3uPH;b">
 <field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
 <value name="VALUE">
@@ -2245,95 +2205,23 @@
 <field name="BOOL">TRUE</field>
 </block>
 </value>
-<next>
-<block type="variables_set" id="FezjEzt%utVhv;WO#}y2">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="$FG!GbFN@O45RYBY9#Yc">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="6HjP-P^-D^7-BN(c1z=w">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="E/Tr62dzWq+)n%z%nCS6">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="|/mLPq9O67G].eJvUGF{">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="d*4%V]Y7wO;FE=,[^7F/">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="mSiMZDEzv}hsY4C8HsA=">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="1L?J=AO}v4w{4)CECT?-">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</statement>
 </block>
 </statement>
 <next>
-<block type="controls_if" id="%.4+wXPzd8|84T(bup*,">
+<block type="controls_if" id="1j3-ov40dw(QaphBUTM=">
 <value name="IF0">
-<block type="logic_compare" id="i;^KP]$:FEn*JFU1mcLH">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="=ksU?UL#o1E+R(H*D]fq">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="WM-obMtd@*zx]Q-NN$Pu">
-<field name="BOOL">TRUE</field>
-</block>
-</value>
+<block type="variables_get" id="bM|Qi5_OiWg~hv8XCheC">
+<field name="VAR" id="!jn,5P.K/^J,)YZn@%b:">Climbing</field>
 </block>
 </value>
 <statement name="DO0">
-<block type="variables_set" id="Q([l`9:5/vwhgNr4[c~v">
-<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
+<block type="variables_set" id="Opi/SyftL7N{2_/VjVjO">
+<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
 <value name="VALUE">
-<block type="variables_get" id="5v,jt.|$8U3]9DawOcF8">
-<field name="VAR" id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</field>
+<block type="logic_boolean" id="|MF/}-wd4?IJZuz.]dki">
+<field name="BOOL">TRUE</field>
 </block>
 </value>
-<next>
-<block type="variables_set" id=".W*QjY-Z^S6O,]R6|8xD">
-<field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="PfY#vRsX}7*Y`-C4)Pts">
-<field name="VAR" id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="l#_AB;kHOE6SJi2Z:ABA">
-<field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="OM-)$@i1|]5mqK/;@aTV">
-<field name="VAR" id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
 </block>
 </statement>
 <next>
@@ -2354,27 +2242,260 @@
 </block>
 </value>
 <statement name="DO0">
-<block type="variables_set" id="cQTq-[T-5F:mYKsXoAnN">
+<block type="variables_set" id="1Dq!EMj{9a$%Xd3ZLvU!">
 <field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
 <value name="VALUE">
-<block type="variables_get" id="s;?Oib$m~N*1ZXKlh,a;">
+<block type="variables_get" id="ww5o@~SW*DhsX^8YR}o1">
 <field name="VAR" id="HkU46vmw13g+%^UIsuvj">WristPositionForIntake</field>
 </block>
 </value>
 <next>
-<block type="variables_set" id="Gl}3]=aYx7Ew(}]7`~5!">
+<block type="variables_set" id="tb$^:.nE6#oSw`zp0@ng">
 <field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
 <value name="VALUE">
-<block type="variables_get" id="dwcI-p}%!*^88}i9q4|p">
+<block type="variables_get" id="vjw_qK_FX_kA_`-E6$yS">
 <field name="VAR" id="~G@$Nn)hQK-yh;*?C^_q">PositionOfElbowForIntake</field>
 </block>
 </value>
 <next>
-<block type="variables_set" id="kXSrwi{dHfONre~kTqR4">
+<block type="variables_set" id="k`8;^-C6JR8YO:45li)Z">
 <field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
 <value name="VALUE">
-<block type="variables_get" id="q+1Mtuh_PGQRcZQyJU#o">
+<block type="variables_get" id="^^1t^FXF+n|ZozSPQURs">
 <field name="VAR" id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="%.4+wXPzd8|84T(bup*,">
+<value name="IF0">
+<block type="logic_compare" id="i;^KP]$:FEn*JFU1mcLH">
+<field name="OP">EQ</field>
+<value name="A">
+<block type="variables_get" id="=ksU?UL#o1E+R(H*D]fq">
+<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
+</block>
+</value>
+<value name="B">
+<block type="logic_boolean" id="WM-obMtd@*zx]Q-NN$Pu">
+<field name="BOOL">TRUE</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="5f*?+{.h.RW;i,]R(XTa">
+<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
+<value name="VALUE">
+<block type="variables_get" id="RAI)0;%e-jqd*I;)$+Ir">
+<field name="VAR" id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="hZFW*,-XxxxyZvCK1(eb">
+<field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
+<value name="VALUE">
+<block type="variables_get" id="(5@;|+cR4lgR_Z.qI)oS">
+<field name="VAR" id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="(6(r50)9zkx-1y_}(%!}">
+<field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
+<value name="VALUE">
+<block type="variables_get" id="^f8`8A(iDc{e@_(Y^Sj)">
+<field name="VAR" id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="{6qSK2.s?S*Xt|wbbgP5">
+<value name="IF0">
+<block type="logic_compare" id="-Z^6dTpx~eWu2wNY)kA4">
+<field name="OP">EQ</field>
+<value name="A">
+<block type="variables_get" id="ISd?5y5T)lO{Dh!|BW-~">
+<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
+</block>
+</value>
+<value name="B">
+<block type="logic_boolean" id="r#oJCN*wtqMMKqzYybyG">
+<field name="BOOL">TRUE</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="WJxJZZ@Q`mkN~Kq6-|%g">
+<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
+<value name="VALUE">
+<block type="variables_get" id="ld3OJx{5$9--zGuKBmND">
+<field name="VAR" id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="pLLJzh1z-Tz;OgAv:SE-">
+<field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
+<value name="VALUE">
+<block type="variables_get" id="s/aTQkVF.w(VTuc}1Lz?">
+<field name="VAR" id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="06vu@2J`{Cf#cdeY*hCU">
+<field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
+<value name="VALUE">
+<block type="variables_get" id="0|U^EG=y66nV0:JT;TXG">
+<field name="VAR" id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="}%Vv5vE..1L;h[)agJxo">
+<value name="IF0">
+<block type="logic_operation" id="9_pP2E-bP;L-hJ$UR[Xm">
+<field name="OP">OR</field>
+<value name="A">
+<block type="gamepad_getProperty_Boolean" id="WG4-fUQ^vUPZm{kC${A_">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">DpadUp</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<value name="B">
+<block type="logic_operation" id="wqQlouN,R+kjvp2H5vhy">
+<field name="OP">OR</field>
+<value name="A">
+<block type="gamepad_getProperty_Boolean" id="3cvp[4o(NmCKylSRx/Vn">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">DpadDown</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<value name="B">
+<block type="logic_operation" id="GU}|nO9ISp5Hz)+e^3n^">
+<field name="OP">OR</field>
+<value name="A">
+<block type="logic_compare" id="t$,U4|`Lj-v~t!k)tG}x">
+<field name="OP">GT</field>
+<value name="A">
+<block type="gamepad_getProperty_Number" id="Uf(EsX:eOXU?LxJr+zvC">
+<field name="IDENTIFIER">gamepad2</field>
+<field name="PROP">LeftStickY</field>
+<data>{"IDENTIFIER":"gamepad2"}</data>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="5-L1pZK8+{yl;A0U5?c6">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="logic_operation" id="y.u)?yg]ePU9Cza0Jy+5">
+<field name="OP">OR</field>
+<value name="A">
+<block type="logic_compare" id="`]-Pel3f!ihJQO8UD[)N">
+<field name="OP">LT</field>
+<value name="A">
+<block type="gamepad_getProperty_Number" id="oDR%=dgG:G.2u4PdXut4">
+<field name="IDENTIFIER">gamepad2</field>
+<field name="PROP">LeftStickY</field>
+<data>{"IDENTIFIER":"gamepad2"}</data>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="8*PT)g_~TeVibP0hU*W7">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="logic_operation" id="hoavurUg(zIKRq84#=A=">
+<field name="OP">OR</field>
+<value name="A">
+<block type="logic_compare" id="XlZ#i$L?=}|:xJx^Ks:n">
+<field name="OP">GT</field>
+<value name="A">
+<block type="gamepad_getProperty_Number" id="(mj,hu8V:?2pq%1{okW~">
+<field name="IDENTIFIER">gamepad2</field>
+<field name="PROP">RightStickY</field>
+<data>{"IDENTIFIER":"gamepad2"}</data>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="3Y}rJvxxLh+k:2P[*4]*">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="logic_compare" id="cohFEc[;FF_0!C5.F{eG">
+<field name="OP">LT</field>
+<value name="A">
+<block type="gamepad_getProperty_Number" id="QD`aE|n8Z]1Uj+)(XQbj">
+<field name="IDENTIFIER">gamepad2</field>
+<field name="PROP">RightStickY</field>
+<data>{"IDENTIFIER":"gamepad2"}</data>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="5rN%912A04/#Y`o]l:uB">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="nxa%*t0De:.9J#VNc45C">
+<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="ddZZ%ISRNh(Qr$N6tbnF">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="*oL#^tML?$5$LfT%LR^?">
+<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="Dk:2Gc;d+f2URYVq%?FT">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="bv6`Pq|64}#9d6[I2xlz">
+<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="H]VxBZ!cOVw$zq3ng`/H">
+<field name="BOOL">FALSE</field>
 </block>
 </value>
 </block>
@@ -2413,313 +2534,6 @@
 <field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
 </block>
 </value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="|.I)hv]_Z~CCm736^vGi" x="548" y="1465">
-<mutation>
-<arg name="Shrinking" varid="7~?S^L]E[R9o6I;y:DTY"/>
-</mutation>
-<field name="NAME">ShrinkPosition</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="controls_if" id="Pf=bn`hnsYD=n%hfVcMw">
-<value name="IF0">
-<block type="variables_get" id="kNo{Smzuy1q4bT-f^N:o">
-<field name="VAR" id="7~?S^L]E[R9o6I;y:DTY">Shrinking</field>
-</block>
-</value>
-<statement name="DO0">
-<block type="controls_if" id="T=GVG%=39|LbQ(I-J*@h">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="!P|(nMV=a(+.f=}/#|,0">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="0*-/81`_R+fRW3|XsEOy">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="oa2x*yY[$6AmKe77,AA9">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id=".2mq!/_X+B9V$kWL~v/K">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="9[^Qk49pL_5C6bcDbZG=">
-<field name="BOOL">TRUE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="IDTNk8G!nqi@@zr!JYJ1">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="##]o[XL,~/P$JNs;%9/g">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="VoxjY*9_}iZ}(,|bHZVd">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="SBX=~i9;!;mzp{vS2mTb">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="[G8h9([?3b1Z2Ak@r+4s">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="hfW3h_#X-A32X.(n#LSW">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="]Tf,5pp%Dd.wO-|cpzry">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="lQm:njTnegjmp,d0l%g+">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</statement>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="=Sy!%cmXAuV);,MfO[8%">
-<value name="IF0">
-<block type="logic_compare" id="I`g`+#M^V@b*[dDM{Ywe">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="ngR:m]9:wV!R,,V:7v#j">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="{hA7nVpb|M08lp+GIdzM">
-<field name="BOOL">TRUE</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="1Dq!EMj{9a$%Xd3ZLvU!">
-<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
-<value name="VALUE">
-<block type="variables_get" id="ww5o@~SW*DhsX^8YR}o1">
-<field name="VAR" id="1m$Y;Q8*;?rg?=0:r)hZ">WristShrinkPosition</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="tb$^:.nE6#oSw`zp0@ng">
-<field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="vjw_qK_FX_kA_`-E6$yS">
-<field name="VAR" id="rwzHSPUT^dRnL4B.UIO{">ElbowShrinkPosition</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="k`8;^-C6JR8YO:45li)Z">
-<field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="^^1t^FXF+n|ZozSPQURs">
-<field name="VAR" id="2_9^j11vQ_y2@WIa?ceK">ExtensionShrinkPosition</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<next>
-<block type="telemetry_addNumericData_Number" id="I^r@4WIAI%vLZj^}f}/`">
-<value name="KEY">
-<shadow type="text" id="cv@1eEE{0bMy:--Oa=Wv">
-<field name="TEXT">B Button Pressed:</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="+-CP8Bn[-m1N#Fl_U+aP">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="P(`yNSS:e9kuMjiZKf#o">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="BkMWbo,^X#-NXkOI|[^4" x="545" y="1975">
-<mutation>
-<arg name="Climbing" varid="!jn,5P.K/^J,)YZn@%b:"/>
-</mutation>
-<field name="NAME">ClimbPosition</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="controls_if" id="1j3-ov40dw(QaphBUTM=">
-<value name="IF0">
-<block type="variables_get" id="bM|Qi5_OiWg~hv8XCheC">
-<field name="VAR" id="!jn,5P.K/^J,)YZn@%b:">Climbing</field>
-</block>
-</value>
-<statement name="DO0">
-<block type="controls_if" id="h0dS}UebAQX%:X2~Crbc">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id=":Dh~^%93hV)D]aemavar">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="2;uULKz-nDk80g.M|t^Z">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="dO91j4qTxPINa?lD5i,h">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="Opi/SyftL7N{2_/VjVjO">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="|MF/}-wd4?IJZuz.]dki">
-<field name="BOOL">TRUE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="ixYrUChl!C3XekY,/Dh!">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="~Pw/4y1Xnkl:JygACO41">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="=WB,C_IL14{mRkWS6dTp">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="=!F0:tx-i5^V*px85P#C">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="9Rj7[mw*ux.=/Qk~R.KR">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="`t?BX.1g`JWPler[s*#H">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="I_P5q7Rdw%Ez`..r2m6B">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="$rJ0~mhFkD]}7|`{Sr~D">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-</block>
-</statement>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="?vy/{h]m]5mxHhIC1Pp:">
-<value name="IF0">
-<block type="logic_compare" id="SY~peyAn]jEhY0m#+OG`">
-<field name="OP">EQ</field>
-<value name="A">
-<block type="variables_get" id="~;h1zQ$jQ!=9R(KtQ%HM">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-</block>
-</value>
-<value name="B">
-<block type="logic_boolean" id="GAynRM#QrfMT0`OXdns9">
-<field name="BOOL">TRUE</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="5X9_,y*l*$N+s#g|elHL">
-<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
-<value name="VALUE">
-<block type="variables_get" id="S]0GnN))4K+v9jO^@#?1">
-<field name="VAR" id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</field>
-</block>
-</value>
-<next>
-<block type="dcMotor_setProperty_Number" id=";J3BRXT?E%pQ@7t~K0Z@">
-<field name="IDENTIFIER">elbowarmAsDcMotor</field>
-<field name="PROP">Power</field>
-<data>{"IDENTIFIER":"elbow-arm"}</data>
-<value name="VALUE">
-<shadow type="math_number" id="8J:Mw_iM6JrLLpe;mB1`">
-<field name="NUM">0.3</field>
-</shadow>
-</value>
-<next>
-<block type="variables_set" id="(G-,!XOLhNUi3i6e-U:-">
-<field name="VAR" id="/Y64{=1MTCf(951Jti[c">ElbowArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="F]/G3m*e7{I3NF}7%US/">
-<field name="VAR" id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="qBy/)!=}2#ScG^jNL~B|">
-<field name="VAR" id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</field>
-<value name="VALUE">
-<block type="variables_get" id="ZzS~bdbl*4PH[WiG,7lI">
-<field name="VAR" id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
 <next>
 <block type="telemetry_addNumericData_Number" id="}c:F3Y,*(E6i;s^X.ro_">
 <value name="KEY">
@@ -2735,6 +2549,20 @@
 <field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
 </block>
 </value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </next>
 </block>
