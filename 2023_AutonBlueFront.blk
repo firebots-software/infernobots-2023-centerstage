@@ -9,6 +9,7 @@
 <variable id="OcR5AN4`JX*qj}4sEWle">SpeedOfElbow</variable>
 <variable id=".mG9D-c`k}Cv?7;]plJd">inchesBackward</variable>
 <variable id="$$9+)so851@czV*rJ!Ib">time</variable>
+<variable id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</variable>
 <variable id="TLByAv_-c}nphoKiCFN4">inchesMovin</variable>
 <variable id="GFUli(sx5fg86,ZS$:wf">inchesForward</variable>
 <variable id=".a,?}hP/wNA13zWYT9I@">SpeedOfExtension</variable>
@@ -16,55 +17,55 @@
 <variable id="Djo[d)MCw!~(Ca0{oUzz">DpadDown</variable>
 <variable id=":J$Vy[C;#rS,Z)lf)tm;">Tim</variable>
 <variable id="zSWSxafhV_%bDq*m}?4k">ExtensionOfArmPosition</variable>
-<variable id="*lbTg9^)`#**$qHe.pbb">ComingForwardInchesForPark</variable>
+<variable id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</variable>
 <variable id="OlJB[R?bruF2C6T]y:j,">myTfodRecognitions</variable>
 <variable id="H-Z=LqoFw@{./6!|~|z9">FrontLeftSpeedForWheels</variable>
-<variable id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</variable>
 <variable id="zYTjhl-kWT$tV3WOVddC">Circumference</variable>
 <variable id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</variable>
 <variable type="TfodProcessor.Builder" id="nN$Hc]Yea=/(:3{Flx89">myTfodProcessorBuilder</variable>
 <variable id="77%kv^TQSMC/a$@r}+JC">BackRightSpeedForWheels</variable>
-<variable id="9K.2[)n%d3UK+/uoD_Ld">erectArmPos</variable>
 <variable id="zDa^tzaR%$_!|LH~Lsf0">DriveForwardNumber</variable>
-<variable id="H{~14xnwE]T+T(5o)XMy">SlowRatioForMotorsWhenLeftTriggerIsPressed</variable>
+<variable id="9K.2[)n%d3UK+/uoD_Ld">erectArmPos</variable>
 <variable id="3.)/eLHm(iRl1^Qsq;Hb">USE_WEBCAM</variable>
 <variable id="^Xbe%AvR5*EU9ih/Fy,H">ANTICLOCKWISE</variable>
 <variable id="}+]}?cKa+_YjVNuyfs)P">PulsesPerRevolutions</variable>
 <variable id="/Y64{=1MTCf(951Jti[c">ElbowArmSped</variable>
 <variable id="yF.s20E+kl/,5n|Ocvp?">PowerOfExtendingArm</variable>
 <variable id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</variable>
+<variable id="H{~14xnwE]T+T(5o)XMy">SlowRatioForMotorsWhenLeftTriggerIsPressed</variable>
 <variable id="#y@wEHPVAd(N0Zi{*tn:">ComingBackInchesForPark</variable>
 <variable id="2(2G$#dr!gUmh_~QL5ZA">myTfodProcessor</variable>
 <variable id="0(Iv9ie]^GJxK3,fL}G(">myTfodRecognition</variable>
 <variable id="Y2Ld{}neha[Xf4$[mM#z">BackLeftSpeedForWheels</variable>
-<variable id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</variable>
 <variable id="msM7B^PHFdkk8%`uHJyS">TurnRightTime</variable>
 <variable id="!QE_S!b?21yZRu_u`9G_">WristPositionForOutakingOnStrips</variable>
-<variable id="%QiDH/le8?L!$.dATdFV">LowSpeedForElbow</variable>
+<variable id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</variable>
 <variable id="}v$zbt4cx}t1,{TizskJ">scale</variable>
 <variable id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</variable>
+<variable id="%QiDH/le8?L!$.dATdFV">LowSpeedForElbow</variable>
+<variable id="*lbTg9^)`#**$qHe.pbb">ComingForwardInchesForPark</variable>
 <variable id="IXXbz~apj`z=r*X#Wu|S">ErectArmForOutakingPixelsOnStrip</variable>
 <variable id="Bd6JT2q-d7^OJ10*H+PF">HighSpeedForElbow</variable>
 <variable id=",6ZTHS]Xk,}QbJMeC;Y@">ElbowArmForOutakingPixelsOnStrip</variable>
-<variable id="}Jm)-X`fsRVH}X=BjJYm">LowSpeedForErecting</variable>
 <variable id="qZgX_t6MFE}8;^f}EV2H">ScalingMultiplierForExtendingPosition</variable>
 <variable id="R+dU%dGdan)h@lpeftA[">MaxExtensionPosition</variable>
 <variable id="jkX-w+T$Qc~hdD0r26yg">MaxWristRange</variable>
+<variable id="}Jm)-X`fsRVH}X=BjJYm">LowSpeedForErecting</variable>
 <variable id="*ZbiF.Iv={kswy+s-F4r">DrivingForwardInchesForFront</variable>
 <variable id="~QG7i_nv3m[./E078)e@">DrivingForwardInchesForBack</variable>
 <variable id="dr]z5I{Of*v:|dm+zG@1">OutakingTimeForStrips</variable>
-<variable id=",$%{QOwX]+WF.V`{}rsj">HighSpeedForErecting</variable>
 <variable id="D!X}ei98^Ml#Hk6}{u{w">MaxElbowPos</variable>
 <variable id="q}-UQN7Mf]6bFywa?W,~">MinExtensionPosition</variable>
 <variable id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</variable>
+<variable id=",$%{QOwX]+WF.V`{}rsj">HighSpeedForErecting</variable>
 <variable id="n%M(82V.o$-3[*yw$*Gm">RetractingErectionPosition</variable>
-<variable id="vV-#-/=2EmY*a^poLH?/">BrakeNumForElbowMotor</variable>
 <variable id="Ou58D?(nyPd_KM[V4X_s">counter</variable>
 <variable id="X:z8N;$q7KO9)yTHwBPt">MinElbowPosition</variable>
+<variable id="vV-#-/=2EmY*a^poLH?/">BrakeNumForElbowMotor</variable>
 <variable id="RV^1U-M_hXm?u)tkGKJ6">RetractingElbowArmPosition</variable>
 <variable id="b]x.Fd(,o9YUr+Gs?`se">MinAirplaneRange</variable>
-<variable id="tWEEY^Y.YJLBZa}W-.hS">SlowArmRangeLow</variable>
 <variable id="nt}i:98S$6d*R=tkFzwW">stopSpinning</variable>
+<variable id="tWEEY^Y.YJLBZa}W-.hS">SlowArmRangeLow</variable>
 <variable type="VisionPortal.Builder" id="wx@xgbnS_]b0DQL.08Qg">myVisionPortalBuilder</variable>
 <variable id="j/w:cMN|;G.qEa?%?KaT">SlowArmRangeHigh</variable>
 <variable id="R{3+3{j6;,uRMizwTeH6">y</variable>
@@ -90,8 +91,8 @@
 <variable id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</variable>
 <variable id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</variable>
 <variable id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</variable>
-<variable id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</variable>
 <variable id="h+N$-luP3W`wlsD]`6;K">rightPixelOnStrip</variable>
+<variable id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</variable>
 </variables>
 <block type="procedures_defnoreturn" id="#9n_QfdO:21Zm8ZHo%ri" x="-65" y="-1652">
 <field name="NAME">telemetryTfod2</field>
@@ -1151,6 +1152,82 @@
 <field name="VAR" id="H-Z=LqoFw@{./6!|~|z9">FrontLeftSpeedForWheels</field>
 </block>
 </value>
+<next>
+<block type="telemetry_addNumericData_Number" id="^u^mn*yjXf623(`Z:y3L">
+<value name="KEY">
+<shadow type="text" id="x7BE9sm=Y1J7uZ0HZQ9Y">
+<field name="TEXT">topRight</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="crServo_getProperty_Number" id="wlv_PmbzOSPRrl4`K$qK">
+<field name="IDENTIFIER">frontrightAsCRServo</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"front-right"}</data>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="!pNft`*nh,8V?|!K`/ov">
+<value name="KEY">
+<shadow type="text" id="eK5|:(qaH~sgf.$nP1l9">
+<field name="TEXT">topLeft</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="crServo_getProperty_Number" id="OW}m!V}QuXsox7(^Sd4t">
+<field name="IDENTIFIER">frontleftAsCRServo</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"front-left"}</data>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="dr:LkHBpExbvO;2Yc~*5">
+<value name="KEY">
+<shadow type="text" id="(In`,%to-Vvn!1_LTLLb">
+<field name="TEXT">bottomRight</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="dcMotor_getProperty_Number" id="IR[ruts][5K*(v~Tzy[3">
+<field name="IDENTIFIER">backrightAsDcMotor</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"back-right"}</data>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="#ypETi1C8;IYyF3]XEr9">
+<value name="KEY">
+<shadow type="text" id=";wvj;oI{hxmOX,_(Z)n+">
+<field name="TEXT">bottomLeft</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="dcMotor_getProperty_Number" id="19+;nt=w)I|]EflO2K)N">
+<field name="IDENTIFIER">backleftAsDcMotor</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"back-left"}</data>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </next>
 </block>
@@ -1420,6 +1497,121 @@
 </block>
 </next>
 </block>
+<block type="procedures_defnoreturn" id="KLumPT?N3ItfT+/P6e6G" x="-1405" y="-93">
+<field name="NAME">BackBlueRight</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="procedures_callnoreturn" id="{wkNiagHmyx94(;CLq=u">
+<mutation name="drive-forward">
+<arg name="inchesForward"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="#]Dp6%o;rAYV:$}24^=d">
+<field name="VAR" id="zDa^tzaR%$_!|LH~Lsf0">DriveForwardNumber</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="?PFiUi~G~^QY)Q{V}O.!">
+<mutation name="turn-right">
+<arg name="time"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="-:e^{js|8~AM!n?Jj?9Y">
+<field name="VAR" id="msM7B^PHFdkk8%`uHJyS">TurnRightTime</field>
+</block>
+</value>
+<next>
+<block type="servo_setProperty_Number" id="/7opL7^LE4BD-UG5HSC)">
+<field name="IDENTIFIER">wristservoAsServo</field>
+<field name="PROP">Position</field>
+<data>{"IDENTIFIER":"wrist-servo"}</data>
+<value name="VALUE">
+<shadow type="math_number">
+<field name="NUM">0.4</field>
+</shadow>
+<block type="variables_get" id="Un)Ir5^UEy9FRc^%q)+k">
+<field name="VAR" id="!QE_S!b?21yZRu_u`9G_">WristPositionForOutakingOnStrips</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="L-z5u/yu8Hbs}CBIB2s:">
+<mutation name="ErectArmSpeed">
+<arg name="SpeedOfElbow"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="Cbl.1N*T+JCCh5lAd4C(">
+<field name="VAR" id="IXXbz~apj`z=r*X#Wu|S">ErectArmForOutakingPixelsOnStrip</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="]UtNekD?Lm;9#hpfm67G">
+<mutation name="ArmElbowPosition">
+<arg name="SpeedOfElbow"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="n)]1X-AdHG%UYp$*[Cbu">
+<field name="VAR" id=",6ZTHS]Xk,}QbJMeC;Y@">ElbowArmForOutakingPixelsOnStrip</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="FAS{(irgeDPX;o?J6Vox">
+<mutation name="outakeRight">
+<arg name="time"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="H7H;:*Zi@?Sde^;$FE9i">
+<field name="VAR" id="dr]z5I{Of*v:|dm+zG@1">OutakingTimeForStrips</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="CL2rt!opkT3y7y0b+#Nu">
+<mutation name="ErectArmSpeed">
+<arg name="SpeedOfElbow"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="PW@6@Xauc+oH)?_TtBcx">
+<field name="VAR" id="n%M(82V.o$-3[*yw$*Gm">RetractingErectionPosition</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="%^3E:!tHOzz-^VxZ|qEI">
+<mutation name="ArmElbowPosition">
+<arg name="SpeedOfElbow"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="ysi|0+4qviE`w%RZ|Xhh">
+<field name="VAR" id="RV^1U-M_hXm?u)tkGKJ6">RetractingElbowArmPosition</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="I-Z24y|yW6v9Ytmgn]gF">
+<mutation name="turn-left">
+<arg name="time"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="k._ny%E?57_7ysZBB)_%">
+<field name="VAR" id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
 <block type="procedures_defnoreturn" id="tMc_cN5ahyJ|Vg/1?|?^" x="-961" y="-54">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
@@ -1590,121 +1782,6 @@
 </value>
 </block>
 </next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="KLumPT?N3ItfT+/P6e6G" x="-2601" y="71">
-<field name="NAME">BackBlueRight</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="procedures_callnoreturn" id="{wkNiagHmyx94(;CLq=u">
-<mutation name="drive-forward">
-<arg name="inchesForward"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="#]Dp6%o;rAYV:$}24^=d">
-<field name="VAR" id="zDa^tzaR%$_!|LH~Lsf0">DriveForwardNumber</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="?PFiUi~G~^QY)Q{V}O.!">
-<mutation name="turn-right">
-<arg name="time"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="-:e^{js|8~AM!n?Jj?9Y">
-<field name="VAR" id="msM7B^PHFdkk8%`uHJyS">TurnRightTime</field>
-</block>
-</value>
-<next>
-<block type="servo_setProperty_Number" id="/7opL7^LE4BD-UG5HSC)">
-<field name="IDENTIFIER">wristservoAsServo</field>
-<field name="PROP">Position</field>
-<data>{"IDENTIFIER":"wrist-servo"}</data>
-<value name="VALUE">
-<shadow type="math_number">
-<field name="NUM">0.4</field>
-</shadow>
-<block type="variables_get" id="Un)Ir5^UEy9FRc^%q)+k">
-<field name="VAR" id="!QE_S!b?21yZRu_u`9G_">WristPositionForOutakingOnStrips</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="L-z5u/yu8Hbs}CBIB2s:">
-<mutation name="ErectArmSpeed">
-<arg name="SpeedOfElbow"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="Cbl.1N*T+JCCh5lAd4C(">
-<field name="VAR" id="IXXbz~apj`z=r*X#Wu|S">ErectArmForOutakingPixelsOnStrip</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="]UtNekD?Lm;9#hpfm67G">
-<mutation name="ArmElbowPosition">
-<arg name="SpeedOfElbow"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="n)]1X-AdHG%UYp$*[Cbu">
-<field name="VAR" id=",6ZTHS]Xk,}QbJMeC;Y@">ElbowArmForOutakingPixelsOnStrip</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="FAS{(irgeDPX;o?J6Vox">
-<mutation name="outakeRight">
-<arg name="time"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="H7H;:*Zi@?Sde^;$FE9i">
-<field name="VAR" id="dr]z5I{Of*v:|dm+zG@1">OutakingTimeForStrips</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="CL2rt!opkT3y7y0b+#Nu">
-<mutation name="ErectArmSpeed">
-<arg name="SpeedOfElbow"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="PW@6@Xauc+oH)?_TtBcx">
-<field name="VAR" id="n%M(82V.o$-3[*yw$*Gm">RetractingErectionPosition</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="%^3E:!tHOzz-^VxZ|qEI">
-<mutation name="ArmElbowPosition">
-<arg name="SpeedOfElbow"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="ysi|0+4qviE`w%RZ|Xhh">
-<field name="VAR" id="RV^1U-M_hXm?u)tkGKJ6">RetractingElbowArmPosition</field>
-</block>
-</value>
-<next>
-<block type="procedures_callnoreturn" id="I-Z24y|yW6v9Ytmgn]gF">
-<mutation name="turn-left">
-<arg name="time"/>
-</mutation>
-<value name="ARG0">
-<block type="variables_get" id="k._ny%E?57_7ysZBB)_%">
-<field name="VAR" id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</field>
-</block>
-</value>
 </block>
 </next>
 </block>
@@ -1909,579 +1986,33 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="ESf,|zDmUG%LEoxcOM)0" x="2008" y="-88">
-<field name="NAME">SettingInitialValueOfVariables</field>
+<block type="procedures_defnoreturn" id="IaKu.ye?zCMW2W6f*0fe" x="-1356" y="168">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition94</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="variables_set" id="Y(*g+n,KLI}S?8]]ip_t">
-<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
-<value name="VALUE">
-<block type="math_number" id="4-ap/UUaOyUE)KQpH^uj">
-<field name="NUM">0</field>
 </block>
-</value>
-<next>
-<block type="variables_set" id="qa[/9(}nTE,efZ_7QbjD">
-<field name="VAR" id="H{~14xnwE]T+T(5o)XMy">SlowRatioForMotorsWhenLeftTriggerIsPressed</field>
-<value name="VALUE">
-<block type="math_number" id="X~U[:i!qegJ7yul@W~;4">
-<field name="NUM">0.3</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Qi]KJyb4-_|Q;[9|{;{L">
-<field name="VAR" id="%QiDH/le8?L!$.dATdFV">LowSpeedForElbow</field>
-<value name="VALUE">
-<block type="math_number" id="ys$uX8Yu-g{b7ybn#Mf{">
-<field name="NUM">0.3</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Hg.o*v70W4EU6dR|:mK0">
-<field name="VAR" id="Bd6JT2q-d7^OJ10*H+PF">HighSpeedForElbow</field>
-<value name="VALUE">
-<block type="math_number" id="is`N[TYe~lfP)JPm6:{W">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Q7fso/UfTuMvqdsVJyYA">
-<field name="VAR" id="}Jm)-X`fsRVH}X=BjJYm">LowSpeedForErecting</field>
-<value name="VALUE">
-<block type="math_number" id="%.3UfF5[*y}_d~$3NBcj">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="BaIqR,UOqiHL7Alnfg:o">
-<field name="VAR" id=",$%{QOwX]+WF.V`{}rsj">HighSpeedForErecting</field>
-<value name="VALUE">
-<block type="math_number" id="!c[n||rCEDBz4q[U^wV!">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="8pY4]/wNb/;xQH,Ko.VE">
-<field name="VAR" id="vV-#-/=2EmY*a^poLH?/">BrakeNumForElbowMotor</field>
-<value name="VALUE">
-<block type="math_number" id="M?IWNM:w4Pe7XGl@iGCK">
-<field name="NUM">0.2</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="5(c5:)S8iE_P,^+POhwZ">
-<field name="VAR" id="tWEEY^Y.YJLBZa}W-.hS">SlowArmRangeLow</field>
-<value name="VALUE">
-<block type="math_number" id="2P4Egq|foNj1y7|RecpG">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="2(ln+yKYM%sWKg}1D,b!">
-<field name="VAR" id="j/w:cMN|;G.qEa?%?KaT">SlowArmRangeHigh</field>
-<value name="VALUE">
-<block type="math_number" id="BG(w(Ksq-%f:T_slp``/">
-<field name="NUM">0.3</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="-f+e6H;x]E56QJfu6sjX">
-<field name="VAR" id="jkX-w+T$Qc~hdD0r26yg">MaxWristRange</field>
-<value name="VALUE">
-<block type="math_number" id="TlM24]4|bnDYQXkcW8E-">
-<field name="NUM">0.75</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="b1or~u[AF||}`,A2U|vx">
-<field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
-<value name="VALUE">
-<block type="math_number" id="_J5yl;3C=C0}P:W39N7:">
-<field name="NUM">0.34</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="WS?!r%iU6O5N|OqvZ[`T">
-<field name="VAR" id="`!Y_SntT^8%I`_dH{M4d">LeftIntakePosition</field>
-<value name="VALUE">
-<block type="math_number" id="76*hv,M?iRzU}/mKOJ_0">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="3^r@))`H~eVIG(k1Ptu/">
-<field name="VAR" id=";^MbM2U}mr$.T.+~Iy0F">RightIntakePosition</field>
-<value name="VALUE">
-<block type="math_number" id="~:x%RX:aCS|4*S3Hd}`{">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="0^]8+Eo4~U:$J1kpuVaf">
-<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
-<value name="VALUE">
-<block type="math_number" id="73lv0)G*d}]E+qr/60I+">
-<field name="NUM">0.13</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="1JjT)8Yaw{R!7MCzTdz{">
-<field name="VAR" id="q}-UQN7Mf]6bFywa?W,~">MinExtensionPosition</field>
-<value name="VALUE">
-<block type="math_number" id="%Q)[|]cUrA`8f$UVd}Uq">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="0MaMHoN(N=~%%f!t1ZN*">
-<field name="VAR" id="R+dU%dGdan)h@lpeftA[">MaxExtensionPosition</field>
-<value name="VALUE">
-<block type="math_number" id="xlqV@X2*,LM=WAuPA9lT">
-<field name="NUM">2570</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="hTO%H1iec^1u4/Mtvv-$">
-<field name="VAR" id="X:z8N;$q7KO9)yTHwBPt">MinElbowPosition</field>
-<value name="VALUE">
-<block type="math_number" id="/*!eFrc`%oXr4gAqg*I/">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="rirxgD!4z-D2`^^*AR2@">
-<field name="VAR" id="D!X}ei98^Ml#Hk6}{u{w">MaxElbowPos</field>
-<value name="VALUE">
-<block type="math_number" id="JFzcl(WbHqzFU^285U_A">
-<field name="NUM">1100</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="lW=sbu^Qk*EWT?DmbvjF">
-<field name="VAR" id="^Xbe%AvR5*EU9ih/Fy,H">ANTICLOCKWISE</field>
-<value name="VALUE">
-<block type="math_number" id="Ag4l1LNP9bchZiizCKCM">
-<field name="NUM">-1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="YD5Jl*X7DWeIP!X*vnIY">
-<field name="VAR" id="A%y~6wjw,{m#W-zmg)CM">CLOCKWISE</field>
-<value name="VALUE">
-<block type="math_number" id="#V]4!6Nd;RZnl93Sgo|)">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="HM}I#MlbCD+.(8T_lu:0">
-<field name="VAR" id="6to)A6bl^t8Pfi78Bs=2">ScalingMultiplierForElbowPosition</field>
-<value name="VALUE">
-<block type="math_number" id="+{?+]C8=neqKFH$*n%I*">
-<field name="NUM">-5</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="*wsXQa/axGjLaOb$Q]Wq">
-<field name="VAR" id="qZgX_t6MFE}8;^f}EV2H">ScalingMultiplierForExtendingPosition</field>
-<value name="VALUE">
-<block type="math_number" id="Q5H1XAWt9ArbjJU~UH3$">
-<field name="NUM">-20</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="pNo^#d}1%cdRN9FE+/!l">
-<field name="VAR" id="yF.s20E+kl/,5n|Ocvp?">PowerOfExtendingArm</field>
-<value name="VALUE">
-<block type="math_number" id="GC[XP))@Es?dTn`P-0#@">
-<field name="NUM">0.5</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Pu]X,}F7c^^Bd;C4;-9@">
-<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="z2BbmQb/^(/bw6|KnjW}">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="gMuN4dmK`WC+LS6D.byE">
-<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="B*bd=3_o!7^$|IyIld4b">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Aa#%[1LGh.5WdVw}iDB2">
-<field name="VAR" id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</field>
-<value name="VALUE">
-<block type="math_number" id="EUUVPF.9;,3g^iD=g^-v">
-<field name="NUM">0.4</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="9NK-s/V,,*WbOV3Jk{^Z">
-<field name="VAR" id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</field>
-<value name="VALUE">
-<block type="math_number" id="blqSDBVm;E4[X4w.nVR{">
-<field name="NUM">419</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="fi/PL2NOdWfrd|;JKhK6">
-<field name="VAR" id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</field>
-<value name="VALUE">
-<block type="math_number" id="b$+w$pSg[J~1;SQQsD(U">
-<field name="NUM">521</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="TpYJyNKgT4o_2gyTCzYr">
-<field name="VAR" id="HkU46vmw13g+%^UIsuvj">WristPositionForIntake</field>
-<value name="VALUE">
-<block type="math_number" id="4=J^Au.U;=TL42N^=ZI0">
-<field name="NUM">0.7</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="@9kPNtnn1UZ{k6ClS@Tb">
-<field name="VAR" id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</field>
-<value name="VALUE">
-<block type="math_number" id="Zys~(W)Y)p#FjrasVzmA">
-<field name="NUM">1018.0429572798312</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id=",vTqjERRT`G~{Ev|.;01">
-<field name="VAR" id="~G@$Nn)hQK-yh;*?C^_q">PositionOfElbowForIntake</field>
-<value name="VALUE">
-<block type="math_number" id="?Y`KV|z)P18tEtSWLm6*">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="]X,-JS%z+aUm,kjeP/*)">
-<field name="VAR" id="z8gp]=LpLch[KO]X59/r">PositionOfAirplaneLauncher</field>
-<value name="VALUE">
-<block type="math_number" id="W!w}zs(5}V06k9pgvTf@">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id=")#|6hM6+QP/i8~vDUV$]">
-<field name="VAR" id="b]x.Fd(,o9YUr+Gs?`se">MinAirplaneRange</field>
-<value name="VALUE">
-<block type="math_number" id="8x~YR=SFb//+8!%sac#C">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="02:Cn/2_=]s2H20SvWxV">
-<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="~gnHGxTo;]fkDwWnfU}]">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="D`+3+uIf6w.^]XL9TOVx">
-<field name="VAR" id="2_9^j11vQ_y2@WIa?ceK">ExtensionShrinkPosition</field>
-<value name="VALUE">
-<block type="math_number" id="c8P%QHcu;kp8:8JCSs+u">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id=".rwPXt`Cw;P_$eG[f=?k">
-<field name="VAR" id="1m$Y;Q8*;?rg?=0:r)hZ">WristShrinkPosition</field>
-<value name="VALUE">
-<block type="math_number" id="+Lv2_Mh(Mg6MSeZiD_kf">
-<field name="NUM">0.13</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Y=3SG*T?EVIIN)@wl8L3">
-<field name="VAR" id="rwzHSPUT^dRnL4B.UIO{">ElbowShrinkPosition</field>
-<value name="VALUE">
-<block type="math_number" id="b_9+)z;XJE;jCVx-buQD">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="I/#sN;DUv?F:%%EXRD29">
-<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
-<value name="VALUE">
-<block type="logic_boolean" id="+cjBu*t+S:@/6L9.Pnj?">
-<field name="BOOL">FALSE</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="2xPK$uBbx~p`Z.vFVh}F">
-<field name="VAR" id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</field>
-<value name="VALUE">
-<block type="math_number" id="~ni|6Sn,;zC!1K%:;(4p">
-<field name="NUM">0.41000000000000025</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="||6mrhc]sjJ!K{0[,=4z">
-<field name="VAR" id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</field>
-<value name="VALUE">
-<block type="math_number" id="%m*3P*aj0*5ct?bt6;]S">
-<field name="NUM">2570</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="#BYm9jJCL1|!N)yY(;Um">
-<field name="VAR" id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</field>
-<value name="VALUE">
-<block type="math_number" id="F_f:$[u`v9lGGs#3zgu8">
-<field name="NUM">964.9436804652214</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="#s;wjSL@D;Kdi4YUkz`h">
-<field name="VAR" id="zDa^tzaR%$_!|LH~Lsf0">DriveForwardNumber</field>
-<value name="VALUE">
-<block type="math_number" id="4M%fFbdzuaU*7j=zAG)2">
-<field name="NUM">26</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="7V_MAI-T~HCjIpWQsD5s">
-<field name="VAR" id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</field>
-<value name="VALUE">
-<block type="math_number" id="yjKvhI0OSO#EGcH5J3g:">
-<field name="NUM">1340</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="ht#v|Sm9I)DIbWzl_[p%">
-<field name="VAR" id="msM7B^PHFdkk8%`uHJyS">TurnRightTime</field>
-<value name="VALUE">
-<block type="math_number" id="Ikj^)F[lJpe#l)V$=Nv{">
-<field name="NUM">1340</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="uJB(gC+2ml5E`KoP,v(T">
-<field name="VAR" id="!QE_S!b?21yZRu_u`9G_">WristPositionForOutakingOnStrips</field>
-<value name="VALUE">
-<block type="math_number" id="{jw[yFy@VpABkTjwOmrW">
-<field name="NUM">0.77</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="RaE54DnmLSnBOI#1{]4N">
-<field name="VAR" id="IXXbz~apj`z=r*X#Wu|S">ErectArmForOutakingPixelsOnStrip</field>
-<value name="VALUE">
-<block type="math_number" id="qVeWO2aQ7|VaD~mt/K@6">
-<field name="NUM">309</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="1bwnNut.OOTSkGA,#`l*">
-<field name="VAR" id=",6ZTHS]Xk,}QbJMeC;Y@">ElbowArmForOutakingPixelsOnStrip</field>
-<value name="VALUE">
-<block type="math_number" id="LpQScIjTWI--d-td%@1X">
-<field name="NUM">79</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="5U};SMt{5C:8#,abteq%">
-<field name="VAR" id="dr]z5I{Of*v:|dm+zG@1">OutakingTimeForStrips</field>
-<value name="VALUE">
-<block type="math_number" id="C!RxALdr:{?YnE{@]u.;">
-<field name="NUM">1000</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="3$:;sH/w*L8PPx-MV4$1">
-<field name="VAR" id="n%M(82V.o$-3[*yw$*Gm">RetractingErectionPosition</field>
-<value name="VALUE">
-<block type="math_number" id=";wZ*$kgkh3py^w+{16z{">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="F_6VY/:I.f.[4E~RFq$G">
-<field name="VAR" id="RV^1U-M_hXm?u)tkGKJ6">RetractingElbowArmPosition</field>
-<value name="VALUE">
-<block type="math_number" id="Q:r2x4M6l-.C=S`pXCOY">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="`3!`(:gZ$)Q)6MZ2Z0mY">
-<field name="VAR" id="#y@wEHPVAd(N0Zi{*tn:">ComingBackInchesForPark</field>
-<value name="VALUE">
-<block type="math_number" id="Fh[Y1kg#e]hb}Ij?`(}@">
-<field name="NUM">20</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Eb*/ZRO5w;)L$bT=tw;2">
-<field name="VAR" id="*lbTg9^)`#**$qHe.pbb">ComingForwardInchesForPark</field>
-<value name="VALUE">
-<block type="math_number" id="XN*$u76/-P*E/~.IczDB">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="sS7o9SO)iR$!T]*#,7Vw">
-<field name="VAR" id="*ZbiF.Iv={kswy+s-F4r">DrivingForwardInchesForFront</field>
-<value name="VALUE">
-<block type="math_number" id="8h^Uly6HU4N~fX)QXtuV">
-<field name="NUM">24</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="=?eZH{z5`I1_);$qjLd)">
-<field name="VAR" id="~QG7i_nv3m[./E078)e@">DrivingForwardInchesForBack</field>
-<value name="VALUE">
-<block type="math_number" id="NM+[M*|*d.jx@:J@M[sZ">
-<field name="NUM">65</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="h2^V#]l#l_/+CVPK3EVu">
-<field name="VAR" id="h+N$-luP3W`wlsD]`6;K">rightPixelOnStrip</field>
-<value name="VALUE">
-<block type="math_number" id="}I8V]39Z.wS49-+70WVG">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="ok{;trK_)^R2vZW-g~}8">
-<field name="VAR" id="`=y]uY@Ve@CrZo92a(D/">LeftPixelOnStrip</field>
-<value name="VALUE">
-<block type="math_number" id="pF@:}CuP+Ms$x57ZIn4m">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="V^V{h)V[(3jg=!]1g]kt">
-<field name="VAR" id="MVJr~.%pXDbXuwxYuOsA">MiddlePixelOnStrip</field>
-<value name="VALUE">
-<block type="math_number" id="c)S7/TguS!Gs)(NC@DWo">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
+<block type="procedures_defnoreturn" id="x2C.MaNQn;Uz=vTEtcQE" x="-1356" y="168">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition118</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="n#$rpT|3?31mF9SP@iQk" x="-1356" y="168">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition142</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="PdRLib;rML*xvM3YJ(gV" x="-1356" y="168">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition166</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="-71" y="104">
 <field name="NAME">runOpMode</field>
@@ -2922,8 +2453,93 @@
 </block>
 </statement>
 <next>
+<block type="controls_if" id="%nh#%Afl7%k~;o(1(a8_">
+<value name="IF0">
+<block type="logic_compare" id="e%rIU)iN+Cbu_eIdf;?s">
+<field name="OP">EQ</field>
+<value name="A">
+<block type="variables_get" id="WvPD09BoLOY=;kLE={{:">
+<field name="VAR" id="MVJr~.%pXDbXuwxYuOsA">MiddlePixelOnStrip</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="na84tii~U?R$IOsjf0pQ">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="procedures_callnoreturn" id="7mK/y/`A}a.P7d75cAne">
+<mutation name="BackBlueMiddle"/>
+<next>
+<block type="procedures_callnoreturn" id="#;r2@m7(C1M7sJ@mjUr!">
+<mutation name="BlueBackPark"/>
+<next>
+<block type="controls_flow_statements" id="vGK@%f9;-XZrJ/G9.FXu">
+<field name="FLOW">BREAK</field>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="MFekhd0o4}ruob*Ujyl[">
+<value name="IF0">
+<block type="logic_compare" id="yhiVJ%NFARP:k(.iM3;d">
+<field name="OP">EQ</field>
+<value name="A">
+<block type="variables_get" id="NgBTyo1e_=]nRTXDv$Bp">
+<field name="VAR" id="`=y]uY@Ve@CrZo92a(D/">LeftPixelOnStrip</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="_O/z57`eYlHB$-}Y;LK`">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="procedures_callnoreturn" id="([}[-Xa%U![7)1.U?}1q">
+<mutation name="BackBlueLeft"/>
+<next>
+<block type="procedures_callnoreturn" id="~$,yu[o.w;%VLUVZ2+(Q">
+<mutation name="BlueBackPark"/>
+<next>
+<block type="controls_flow_statements" id="pwz9DwK{RISvWo3;yh]D">
+<field name="FLOW">BREAK</field>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="telemetry_addNumericData_Number" id="n:*~=L_Fuz5edIY1C`5S">
+<value name="KEY">
+<shadow type="text" id="CNUo[MOOzV70c~%=u=oX">
+<field name="TEXT">scale</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="o?{cEJY%JG1X|qP`/)U+">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="E|Q9VRb0DI4^;86^mo@`">
+<field name="VAR" id="}v$zbt4cx}t1,{TizskJ">scale</field>
+</block>
+</value>
+<next>
 <block type="telemetry_update" id="a2v}?08WTfG:kD;So+-%">
 <comment pinned="false" h="55" w="295">Push telemetry to the Driver Station.</comment>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </next>
 </block>
@@ -3014,15 +2630,15 @@
 <field name="NAME">drive-backward</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
-<block type="procedures_callnoreturn" id=",?p]^_tv=5RaM`/:I.I(">
+<block type="procedures_callnoreturn" id="n})7SBx*P.(^XZt)sE:s">
 <mutation name="Encoder2">
 <arg name="inchesMovin"/>
 </mutation>
 <value name="ARG0">
-<block type="math_arithmetic" id=")2KRkJ#__P+cF,a_7wQ-">
+<block type="math_arithmetic" id="~)x4yE0$~A*`1krKwxKS">
 <field name="OP">MULTIPLY</field>
 <value name="A">
-<shadow type="math_number" id="g=ciSP$hTQ[ebQwmA!Ha">
+<shadow type="math_number" id="IyjY2/f)+b=cuiq)MLa^">
 <field name="NUM">-1</field>
 </shadow>
 </value>
@@ -3030,23 +2646,23 @@
 <shadow type="math_number">
 <field name="NUM">1</field>
 </shadow>
-<block type="variables_get" id=")WK`q3n%^enT*-oljti9">
+<block type="variables_get" id=")Yb(*3}3E%bX62!~A-[%">
 <field name="VAR" id=".mG9D-c`k}Cv?7;]plJd">inchesBackward</field>
 </block>
 </value>
 </block>
 </value>
 <next>
-<block type="variables_set" id="Bqb]1q`gL:[B}QpGSiMt">
+<block type="variables_set" id="7JFem1F^*NMab5CJd7aC">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 <value name="VALUE">
-<block type="math_single" id="hV9fFOtyVwK#N*.B,g*P">
+<block type="math_single" id="*iYUVuA_-rB8Z:3uX7;^">
 <field name="OP">NEG</field>
 <value name="NUM">
 <shadow type="math_number">
 <field name="NUM">9</field>
 </shadow>
-<block type="dcMotor_getProperty_Number" id="q[mQIM++V6t$Hjl}cP*W">
+<block type="dcMotor_getProperty_Number" id="XcQH9y+jj{TEY~BHj$Zp">
 <field name="IDENTIFIER">backleftAsDcMotor</field>
 <field name="PROP">CurrentPosition</field>
 <data>{"IDENTIFIER":"back-left"}</data>
@@ -3055,9 +2671,25 @@
 </block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="Y5wnf}p/O~NI~LEx`x^?">
+<block type="variables_set" id="LM=@OP@DL0un$~jUF`Su">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+<value name="VALUE">
+<block type="math_single" id="X~jKQc6Ki[[.qdmm`Y3S">
+<field name="OP">NEG</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="#/f3[1IaD.~L=b;AF!QL">
+<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="telemetry_addTextData_All" id="P_!!oqE!|eZ41m37TH_d">
 <value name="KEY">
-<shadow type="text" id="i8n83Q0rwv2P+7pQ,G*i">
+<shadow type="text" id="+4I?0M6z#*,qtiWIp@1P">
 <field name="TEXT">Encoder current position</field>
 </shadow>
 </value>
@@ -3065,14 +2697,14 @@
 <shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="uT4W9H=cov[fi=C|4$UD">
+<block type="variables_get" id="Pyr|d=OM/bLB`Xs69)Ok">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="xN?Ew]ftt06jby|)gIfx">
+<block type="telemetry_addTextData_All" id="k]!5{QV:ibvyQg:f[pJ|">
 <value name="KEY">
-<shadow type="text" id="-^}{jMwpUO|LSB9+RzrF">
+<shadow type="text" id="X6lD{d[jQRt8fSY_cI,m">
 <field name="TEXT">Encoder End Position:</field>
 </shadow>
 </value>
@@ -3080,49 +2712,78 @@
 <shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="zm2?lyF!@)@mgUTaXw7]">
+<block type="math_arithmetic" id="_KA9;n7o[9AAJ=]n!e8m">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="P.?R|iL,|(b9M~/j8]Hg">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
 </block>
 </value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="L_+%nQc6(%MO/nfAb;(B">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+</block>
+</value>
+</block>
+</value>
 <next>
-<block type="telemetry_update" id="VAD{]YEk9[Q@?oH`FxX6">
+<block type="telemetry_update" id="$@zwS%)h7:C*5:R+U.F)">
 <next>
-<block type="controls_whileUntil" id="E`O1FE[rS8gL1{t]yNz#">
+<block type="controls_whileUntil" id="hGL1wKU9_T!J)dv8amI2">
 <field name="MODE">WHILE</field>
 <value name="BOOL">
-<block type="logic_compare" id="Pzsaz.gL(/m5ZIVG::ge">
+<block type="logic_compare" id="k^A0:TNg[=YyHGKJHJ;f">
 <field name="OP">GTE</field>
 <value name="A">
-<block type="variables_get" id="wh}ey-NXzWKzy,[Xd0Y_">
+<block type="variables_get" id="i^C;7%^@6z^ZoX#gqa3(">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 </value>
 <value name="B">
-<block type="variables_get" id="fgd.tUa!U*EzM*/~A64^">
+<block type="math_arithmetic" id="ME{Z7R$9.HJP#S2[YGQP">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="(K;U%,h5s/AT%j=,C]}O">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Kc:l~;bAy3{Gs~*Dj9.}">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+</block>
+</value>
 </block>
 </value>
 </block>
 </value>
 <statement name="DO">
-<block type="telemetry_addTextData_All" id="uU(4VUM-q)B%*dhLI*Ou">
+<block type="telemetry_addTextData_All" id="`m,G?PK$D6.8#SDCY=bS">
 <value name="KEY">
-<shadow type="text" id="{0lVtxie8=5C+P8-=iXa">
+<shadow type="text" id="v^f{F(w|-7DXHfbD@lGx">
 <field name="TEXT">Encoder current position</field>
 </shadow>
 </value>
 <value name="TEXT">
-<shadow type="text">
+<shadow type="text" id="?~E@^Foo_w6CqSm~:[xt">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="DUZ`H=5xiYHz.L(![Lff">
-<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
-</block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="l*4BH[95T,Z].K~,;c8(">
+<block type="telemetry_addTextData_All" id="#=PhD)R$A!nfw+f/iir}">
 <value name="KEY">
-<shadow type="text" id="xi^EMLhhRoKU:g%Yf]g.">
+<shadow type="text" id="mWGi^.t%A(=MHxc$d9}`">
 <field name="TEXT">Encoder End Position:</field>
 </shadow>
 </value>
@@ -3130,12 +2791,12 @@
 <shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="GWlNKS0q{IK#-t%u_9E[">
+<block type="variables_get" id="VsHJH]-HqQkxMtXJn31,">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
 </block>
 </value>
 <next>
-<block type="procedures_callnoreturn" id="=]8|Jr$D/d*`1$yEqY`2">
+<block type="procedures_callnoreturn" id="}_|%_1k$BY-vf#rc60.g">
 <mutation name="driving">
 <arg name="pivot"/>
 <arg name="left-right"/>
@@ -3143,36 +2804,36 @@
 <arg name="slow-speed-turned-on"/>
 </mutation>
 <value name="ARG0">
-<block type="math_number" id="i5VU6a{yjS:4If9/Fy!-">
+<block type="math_number" id="uNn!C!of3*s.2A1(gw|y">
 <field name="NUM">0</field>
 </block>
 </value>
 <value name="ARG1">
-<block type="math_number" id="/U;f$bn=S3Hx-A_~2K5I">
+<block type="math_number" id="I)z:)ZMZ?9OPqUK!tEmZ">
 <field name="NUM">0</field>
 </block>
 </value>
 <value name="ARG2">
-<block type="variables_get" id="z/cC:N.X6WrRV30!1fG(">
+<block type="variables_get" id="e31Mp.+y[us*Q]K@u.NW">
 <field name="VAR" id="}v$zbt4cx}t1,{TizskJ">scale</field>
 </block>
 </value>
 <value name="ARG3">
-<block type="math_number" id="AJO6-]E/.S-tRuaWd~)[">
+<block type="math_number" id="4Ia~wplcgYGDpDbH$2X#">
 <field name="NUM">0</field>
 </block>
 </value>
 <next>
-<block type="variables_set" id="fG1cZ]!]u?8.WWQA6jC~">
+<block type="variables_set" id="X?%p2(XiEvB:aa)i`?3*">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 <value name="VALUE">
-<block type="math_single" id="H^Mfx#DVHB~1t0$~-B[-">
+<block type="math_single" id="h97b)}i(UC*WeBEuqRv7">
 <field name="OP">NEG</field>
 <value name="NUM">
 <shadow type="math_number">
 <field name="NUM">9</field>
 </shadow>
-<block type="dcMotor_getProperty_Number" id="QNXg`N[Sn7,bbe/1/cvB">
+<block type="dcMotor_getProperty_Number" id="{*YS@1uqN2!sx=lWanMx">
 <field name="IDENTIFIER">backleftAsDcMotor</field>
 <field name="PROP">CurrentPosition</field>
 <data>{"IDENTIFIER":"back-left"}</data>
@@ -3181,7 +2842,7 @@
 </block>
 </value>
 <next>
-<block type="telemetry_update" id="`iA{$dZOOtj7%Y{VH.|^"/>
+<block type="telemetry_update" id="8:z(^y/?9uNV5ehwEX:K"/>
 </next>
 </block>
 </next>
@@ -3192,24 +2853,8 @@
 </block>
 </statement>
 <next>
-<block type="procedures_callnoreturn" id="cHOLMNEub1H2c(,?u[bf">
+<block type="procedures_callnoreturn" id=",Y)]5+Jwrn(]Q7;I$=Qy">
 <mutation name="stop-robot"/>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="bxf,.=Dm/CBdP[tUywP1">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">backleftAsDcMotor</field>
-<field name="IDENTIFIER2">backrightAsDcMotor</field>
-<data>{"IDENTIFIER1":"back-left","IDENTIFIER2":"back-right"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="8QE3qBL[54mkA7~d/P@:">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="[VG_S`T;sQMvEF*vcXbC">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
 </block>
 </next>
 </block>
@@ -3248,11 +2893,39 @@
 <field name="NAME">ArmElbowPosition50</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="R8#-ND{QiSjoX.D7vt{O" x="-1993" y="284">
+<block type="procedures_defnoreturn" id="A!+ci2Ea=Al!ugHSL~8O" x="-1993" y="284">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition25</field>
+<field name="NAME">ArmElbowPosition74</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="X^RBG!6j8cJFp6GmFO47" x="-1993" y="284">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition98</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="`l!`VgaSpCG1;b#3]Cm{" x="-1993" y="284">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition122</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="8n3Qog*P3hP2gL2Atdxi" x="-1993" y="284">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition146</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Y!lDYc@*`S[IJI3(4dFE" x="-1993" y="284">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition170</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="cnbFsxKLp-aLz5|0pXo)" x="-3090" y="346">
@@ -3276,25 +2949,67 @@
 <field name="NAME">ArmElbowPosition46</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="0xk,8XTChy+H3:=tZKw:" x="-3090" y="346">
+<block type="procedures_defnoreturn" id="Cr@D.H`(R;*QD.DrLXz1" x="-3090" y="346">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition70</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="0RnRglqM%??1RV]qL)WV" x="-3090" y="346">
+<block type="procedures_defnoreturn" id="|RY+kE4vl,)U{[a;dJ6]" x="-3090" y="346">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition96</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="vRU;s-miT~v-/JfJ;w)D" x="-3090" y="346">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition120</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="@KZeD+6t:f$yXhu_!:~p" x="-3090" y="346">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition144</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Db_h9c;_Aw*9.(h`D*]=" x="-3090" y="346">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition168</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Qx6j3R2)Sgjok*/`SzIp" x="-2552" y="332">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition4</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="jew0t|)x#3%8e/JITD)U" x="-2552" y="332">
+<block type="procedures_defnoreturn" id="ZKl1E[mGWFZW+!aRLE=^" x="-2552" y="332">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition7</field>
+<field name="NAME">ArmElbowPosition24</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="#.`=Z-H[Ecmv@kU~E_F6" x="-2552" y="332">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition48</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="IG*sV_CSSkSEn;E*.wa:" x="-2552" y="332">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition72</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="bfGOaPigY#70g1VN5D0@" x="590" y="176">
@@ -3405,13 +3120,33 @@
 </block>
 </statement>
 </block>
-<block type="procedures_callnoreturn" id="WbspW9GZ]W3v!8@cHDXI" x="-391" y="291">
-<mutation name="FrontBlueLeft"/>
-<next>
-<block type="procedures_callnoreturn" id="u?}5N-58IO5fCfh}^XGi">
-<mutation name="BlueFrontPark"/>
+<block type="procedures_defnoreturn" id="]:scziE[EHDfd^]G_yWD" x="-1356" y="321">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition95</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-</next>
+<block type="procedures_defnoreturn" id=":yCuxJj5$,`i]m7d/.nl" x="-1356" y="321">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition119</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="#VhszK85cf2uO.UeB}Zf" x="-1356" y="321">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition143</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="tU5q_|E9v=vTjD`c`Kp0" x="-1356" y="321">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition167</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="_v.0e$X-!Bw,sw;FRV?w" x="1548" y="214">
 <mutation>
@@ -3505,18 +3240,88 @@
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="9+m7/qypZAQ$Vt3a%I0A" x="-1993" y="437">
+<block type="procedures_defnoreturn" id="c#^AXS](gzgs%u~`mZcs" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition7</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="82O3/D//OTQkZaa1@TZ4" x="-1993" y="437">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition27</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="`-Q3Up{JvsiuaGU3eVQF" x="-2552" y="485">
+<block type="procedures_defnoreturn" id="+k6-4JwFdCDaX;ncw;4Y" x="-1993" y="437">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition24</field>
+<field name="NAME">ArmElbowPosition51</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="+r:|_{5-9:=(oNUoO2M@" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition75</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="v$:XIZgPDq*z%,8R+=iC" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition99</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="WcHY}Sw[J-WBEBA;YFoE" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition123</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="$OBde(ik?x?|g:Uy~@:w" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition147</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="%x4sej6I}zqKf(/]5|zX" x="-1993" y="437">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition171</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="!6]}d:y*=ASzwCU04-U(" x="-2552" y="485">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition5</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="YELaet]hyi(#+%TRe;T=" x="-2552" y="485">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition25</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="G}TZlBwQkl@IS5,,9*@#" x="-2552" y="485">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition49</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="0_5)(gd,-CpK=xZ{_o,_" x="-2552" y="485">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition73</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="~aK0aHy9c$b}sR1glW,i" x="-3090" y="550">
@@ -3540,19 +3345,43 @@
 <field name="NAME">ArmElbowPosition47</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="ev(k%!s[1Xp3)FPhS|yi" x="-3090" y="550">
+<block type="procedures_defnoreturn" id="tJv-Ge[tWXU]wSFfAl=m" x="-3090" y="550">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition71</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="fNN/Np8sZOb93gZ@Jzk8" x="-3090" y="550">
+<block type="procedures_defnoreturn" id="p;_GL^NUY=BB;lF0$CsE" x="-3090" y="550">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition5</field>
+<field name="NAME">ArmElbowPosition97</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="W[,6kdJc0fhz~_~m*Efg" x="-3090" y="550">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition121</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id=")=?}E/hh9}-:P$#JD(|C" x="-3090" y="550">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition145</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="PBdW+I}Vqh3*1@owy~}@" x="-3090" y="550">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition169</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="variables_get" id="I8[yS?psnS1-m}KcZHt!" x="-100" y="454">
+<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 <block type="procedures_defnoreturn" id="#JGP[UL:S=SUGd,FAm^H" x="588" y="434">
 <mutation>
@@ -4050,6 +3879,7 @@
 </block>
 </statement>
 </block>
+<block type="telemetry_update" id="$;,nYs~([qK-p-?q_S)D" x="-3636" y="854"/>
 <block type="procedures_defnoreturn" id="#Sz9_xR:!TC4mqpZgJYI" x="1573" y="585">
 <mutation>
 <arg name="time" varid="$$9+)so851@czV*rJ!Ib"/>
@@ -4279,18 +4109,39 @@
 <field name="NAME">ArmElbowPosition56</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="7RJ6;hF]0MERMvk_,`AK" x="-2000" y="852">
+<block type="procedures_defnoreturn" id="-;g?eKrm+Pj{v/a0`@R9" x="-2000" y="852">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition80</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="Vte}EfX?{aE/om_b-;1l" x="-2000" y="852">
+<block type="procedures_defnoreturn" id="r=*`C9MH`xG(H43H7FHm" x="-2000" y="852">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition73</field>
+<field name="NAME">ArmElbowPosition104</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Emc!]l@%M;%,:*i8uAgb" x="-2000" y="852">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition128</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="+[,5|p)V31!L8G3PY[uF" x="-2000" y="852">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition152</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="HoxO8^nU-AhRM:a5(*rz" x="-2000" y="852">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition176</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="*cX)C{telh?!#h?.r#ui" x="-3112" y="931">
@@ -4307,18 +4158,39 @@
 <field name="NAME">ArmElbowPosition52</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="YK^:DTLdXMUi!6C*r.b4" x="-3112" y="931">
+<block type="procedures_defnoreturn" id="d#.uZDz67*_pVDF~t#H1" x="-3112" y="931">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition76</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="r1YQMe(cyx!n:v`;c9xE" x="-3112" y="931">
+<block type="procedures_defnoreturn" id="iTfuLFC?Ts0H/N7iHjor" x="-3112" y="931">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition48</field>
+<field name="NAME">ArmElbowPosition100</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="]D+,mTf:Lx5%kJ,S|u=Y" x="-3112" y="931">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition124</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="pa#)y.HX,l0p2N43sN}A" x="-3112" y="931">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition148</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Z,8ka5DW~tn5dW9#iD7B" x="-3112" y="931">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition172</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="an*HA+:RK4HB(rrk+-jf" x="-2585" y="904">
@@ -4342,18 +4214,39 @@
 <field name="NAME">ArmElbowPosition54</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="{~x*2%1wdH)f?;Z8m%{X" x="-2585" y="904">
+<block type="procedures_defnoreturn" id="J6KbJWWzG=;WtOik{$@~" x="-2585" y="904">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition78</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="cr_a:=.XQu/R^@g_.k^^" x="-2585" y="904">
+<block type="procedures_defnoreturn" id="e)Hnmp:J_3yo%#qJrO1T" x="-2585" y="904">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition51</field>
+<field name="NAME">ArmElbowPosition102</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="htY0]wxaAB~FVj$3UQG5" x="-2585" y="904">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition126</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="=,.u#i%Ef=c}~Mn}Vb!_" x="-2585" y="904">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition150</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="]GLbv~EL}|LW[]QN4T6n" x="-2585" y="904">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition174</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="}8,6G~$Zfe8~:VzcTG,b" x="721" y="836">
@@ -4363,26 +4256,26 @@
 <field name="NAME">drive-forward</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
-<block type="procedures_callnoreturn" id="a23h)wC]0_po)d13G_2.">
+<block type="procedures_callnoreturn" id="gSg?f5]`#8S^UQB75G%+">
 <mutation name="Encoder2">
 <arg name="inchesMovin"/>
 </mutation>
 <value name="ARG0">
-<block type="variables_get" id="+:JFfva#;k8j/HdK^_xn">
+<block type="variables_get" id="I!z2du6zeG!ChbzVkNzR">
 <field name="VAR" id="GFUli(sx5fg86,ZS$:wf">inchesForward</field>
 </block>
 </value>
 <next>
-<block type="variables_set" id="lIW=.C2|,F5cH:[M-fq[">
+<block type="variables_set" id="_uAfS)yBjWI^KVqJGQsX">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 <value name="VALUE">
-<block type="math_single" id="qdFHZi`60hDbh4;=FOf-">
+<block type="math_single" id="8#Wr{:f;Pxn+7zD9l/CF">
 <field name="OP">NEG</field>
 <value name="NUM">
-<shadow type="math_number" id="^^hjZg057gkzo-.;SS8M">
+<shadow type="math_number">
 <field name="NUM">9</field>
 </shadow>
-<block type="dcMotor_getProperty_Number" id="6Nn|*]%%z^mD^c5}{8W/">
+<block type="dcMotor_getProperty_Number" id="SyZ2G;_hu1TtVD6rhMe-">
 <field name="IDENTIFIER">backleftAsDcMotor</field>
 <field name="PROP">CurrentPosition</field>
 <data>{"IDENTIFIER":"back-left"}</data>
@@ -4391,24 +4284,32 @@
 </block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="+JR%6P.M6|7ZQ!|0jH}}">
-<value name="KEY">
-<shadow type="text" id="Cprw1+tq9,6Oy^G#Ad%T">
-<field name="TEXT">Encoder current position</field>
-</shadow>
-</value>
-<value name="TEXT">
-<shadow type="text" id="|5lK7tGKAj|e8^%,h;xR">
-<field name="TEXT">text</field>
-</shadow>
-<block type="variables_get" id="gZ%)AteZ$3j1^S-cH?`w">
+<block type="variables_set" id="Ps.OXT~]/56@w~JvHk]C">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+<value name="VALUE">
+<block type="variables_get" id="a~4X[-+)fG1u-c)u%Joa">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="fmp|`phP2Y)b4S|8oE?f">
+<block type="telemetry_addTextData_All" id="L|d3XR@XZ50L(^^RXAO^">
 <value name="KEY">
-<shadow type="text" id="%BWgB?H.%HrIkrtNCpQ]">
+<shadow type="text" id="i$iNw3LHm*u]!ObY`;O2">
+<field name="TEXT">Encoder current position</field>
+</shadow>
+</value>
+<value name="TEXT">
+<shadow type="text">
+<field name="TEXT">text</field>
+</shadow>
+<block type="variables_get" id="BplB]4Gx9WSS!!9}.b-`">
+<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addTextData_All" id="n0@]0Bi,CthxR#ha_U{:">
+<value name="KEY">
+<shadow type="text" id="I3L#2ovKI|E{:e^l22,-">
 <field name="TEXT">Encoder End Position:</field>
 </shadow>
 </value>
@@ -4416,62 +4317,94 @@
 <shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="!b95h$iEe-t.g;(p%sGX">
+<block type="math_arithmetic" id="4Nq${tF|7opQR=g26Ad1">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="}19G/PnxLsIS!jQhtmK7">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="EKI2#Te?y]`M-x#@]%*g">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
 </block>
 </value>
+</block>
+</value>
 <next>
-<block type="telemetry_update" id="=04y;kK!vTwSWcu!M9I~">
+<block type="telemetry_update" id="1QIw6O2Fgbg%T%=-tvI4">
 <next>
-<block type="controls_whileUntil" id="/5D0s5d)a)/2DgD_^In+">
+<block type="controls_whileUntil" id="_LY7*q)7C}ar[eQHiEe?">
 <field name="MODE">WHILE</field>
 <value name="BOOL">
-<block type="logic_compare" id="L:6U`0p/GG:(E*kV*ARs">
+<block type="logic_compare" id="LmHmC~9;)-e*L7n~Q/.[">
 <field name="OP">LTE</field>
 <value name="A">
-<block type="variables_get" id="Z|D?]|KMngnyR^xG%]B~">
+<block type="variables_get" id="c*d]1jcj=@xQ6{2~)vJd">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 </value>
 <value name="B">
-<block type="variables_get" id="t+`l*r0Vta6(Num~GPHT">
+<block type="math_arithmetic" id="6)Q*aiuncv_K@ef:m1WV">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="1|t$m:,#p4!ZS!/XX([Q">
+<field name="VAR" id="7;Yzgd~)_/B:m:216`y^">InitialEncoderValue</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Gp3lV16*[Dam8XyOaj#4">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
+</block>
+</value>
 </block>
 </value>
 </block>
 </value>
 <statement name="DO">
-<block type="telemetry_addTextData_All" id="4q,wf^e!p0)a5J}pdvU8">
+<block type="telemetry_addTextData_All" id="W-B`qr42WL9Ym`DC=^x=">
 <value name="KEY">
-<shadow type="text" id="8]OMs+9$)Bk6k=(1p3@D">
+<shadow type="text" id="cFT=E:r!7!%qn2]4:AyN">
 <field name="TEXT">Encoder current position</field>
 </shadow>
 </value>
 <value name="TEXT">
-<shadow type="text" id="$c;{bL.Id}@]`u=0+}.m">
+<shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="THi]sg]kwxENkiJw{-+o">
+<block type="variables_get" id=",c=3Ob2E(b}f(xGT.)Aj">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 </block>
 </value>
 <next>
-<block type="telemetry_addTextData_All" id="v!ea+;h[~P-S-@S^)ld~">
+<block type="telemetry_addTextData_All" id="d$R2ORBhLpy^*)uI%pc`">
 <value name="KEY">
-<shadow type="text" id="i%M]p`*QnItS@%I[nZ0H">
+<shadow type="text" id="4Sw9[bHl/+peX,QLzAYZ">
 <field name="TEXT">Encoder End Position:</field>
 </shadow>
 </value>
 <value name="TEXT">
-<shadow type="text" id="hvN9N:2.L@V@h)c!6#%f">
+<shadow type="text">
 <field name="TEXT">text</field>
 </shadow>
-<block type="variables_get" id="72/_0Bh%cuB7#7u;la`o">
+<block type="variables_get" id="gJ1XBnz`WKWQB([A(K-e">
 <field name="VAR" id="iE/e?GJH3[[C9:=4V8iE">UIForEncoder</field>
 </block>
 </value>
 <next>
-<block type="procedures_callnoreturn" id="}I|Gwr#(fHFF*W^B#s5W">
+<block type="procedures_callnoreturn" id="Q.5O4tvi[QU1Y!QE#YAC">
 <mutation name="driving">
 <arg name="pivot"/>
 <arg name="left-right"/>
@@ -4479,49 +4412,49 @@
 <arg name="slow-speed-turned-on"/>
 </mutation>
 <value name="ARG0">
-<block type="math_number" id="e-j;haJj)YEs;}gy?jRm">
+<block type="math_number" id="WymuuBv@`uiq,nnb^67O">
 <field name="NUM">0</field>
 </block>
 </value>
 <value name="ARG1">
-<block type="math_number" id="A,!W=dpW7Jd^FGIV/M_w">
+<block type="math_number" id="NzX@_1ZKCv!IFEHYp;$N">
 <field name="NUM">0</field>
 </block>
 </value>
 <value name="ARG2">
-<block type="math_arithmetic" id="zZ7`DU6M?ghL#Z(#}78b">
+<block type="math_arithmetic" id="A$UG[%2kz3:*w,ftQhH.">
 <field name="OP">MULTIPLY</field>
 <value name="A">
 <shadow type="math_number">
 <field name="NUM">1</field>
 </shadow>
-<block type="variables_get" id="??{Q$*L?Z1LMyxL:6cL6">
+<block type="variables_get" id="]|4cLw$DP^1/C=c`Zf2j">
 <field name="VAR" id="}v$zbt4cx}t1,{TizskJ">scale</field>
 </block>
 </value>
 <value name="B">
-<shadow type="math_number" id="):jk5Y^CU]3%bp7*yXz4">
+<shadow type="math_number" id="=17RD*)LU0i,]{o[sMtc">
 <field name="NUM">-1</field>
 </shadow>
 </value>
 </block>
 </value>
 <value name="ARG3">
-<block type="math_number" id="6y/VGfx-36!qa7=}sXv.">
+<block type="math_number" id="^=CBEWy+17M;~+KwyYVW">
 <field name="NUM">0</field>
 </block>
 </value>
 <next>
-<block type="variables_set" id=",99V_Sr5ey7N+#4fsG;6">
+<block type="variables_set" id="$h$iw9A8c_9=9|A^h_v|">
 <field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
 <value name="VALUE">
-<block type="math_single" id="NyS]}`Uyi9,G{tLLXBru">
+<block type="math_single" id="BQFor{CS7Ry=K`$Q*0g%">
 <field name="OP">NEG</field>
 <value name="NUM">
-<shadow type="math_number" id="LZjxV~}SeNx%3!bN^RL6">
+<shadow type="math_number">
 <field name="NUM">9</field>
 </shadow>
-<block type="dcMotor_getProperty_Number" id="4/6RNRX7KP@.?AuDtGQC">
+<block type="dcMotor_getProperty_Number" id="EV3g}|DlI[Ff5L0:Y/I1">
 <field name="IDENTIFIER">backleftAsDcMotor</field>
 <field name="PROP">CurrentPosition</field>
 <data>{"IDENTIFIER":"back-left"}</data>
@@ -4530,7 +4463,7 @@
 </block>
 </value>
 <next>
-<block type="telemetry_update" id="Zub(m/,a~^U^8,nDqkv."/>
+<block type="telemetry_update" id="}q[oSmQ{.B2{BvsaaH6["/>
 </next>
 </block>
 </next>
@@ -4541,8 +4474,10 @@
 </block>
 </statement>
 <next>
-<block type="procedures_callnoreturn" id="zn~GJqP@|q3J3H6b/::E">
+<block type="procedures_callnoreturn" id="0NZz5CX}Xz~YSlFz37W|">
 <mutation name="stop-robot"/>
+</block>
+</next>
 </block>
 </next>
 </block>
@@ -4579,18 +4514,39 @@
 <field name="NAME">ArmElbowPosition57</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id=",r5DkJ#$hwtqqUIJF:5s" x="-2000" y="1005">
+<block type="procedures_defnoreturn" id="-B-!%FO4r2M;rVf{BfM[" x="-2000" y="1005">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition81</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="m_..qOTI5bf-Ra(US_?h" x="-2000" y="1005">
+<block type="procedures_defnoreturn" id="AX)+v_m}hYFz.O0LQ/p9" x="-2000" y="1005">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition74</field>
+<field name="NAME">ArmElbowPosition105</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="}g~Eh6SRZ4qKA0SJOQ3-" x="-2000" y="1005">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition129</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="P-vJ,$me#^;ey3aXYg?Z" x="-2000" y="1005">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition153</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="|W7H.3D#l]K}g9taEH/G" x="-2000" y="1005">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition177</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="VH+$gwF.$*^4Q/`tO(k." x="-3112" y="1084">
@@ -4607,18 +4563,39 @@
 <field name="NAME">ArmElbowPosition53</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="a{O$)V_Xj5W%J`ZZ:e|{" x="-3112" y="1084">
+<block type="procedures_defnoreturn" id="6$P~^A5*~N!5lkk:3uJl" x="-3112" y="1084">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition77</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="B!DiB2VP(nh%U_6u-$mH" x="-3112" y="1084">
+<block type="procedures_defnoreturn" id="L8ehSXawPtfFxsI{`fBK" x="-3112" y="1084">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition49</field>
+<field name="NAME">ArmElbowPosition101</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Up#C%h::gQ^od9AVdg,t" x="-3112" y="1084">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition125</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="[J0)l66QmB;G_gSR.Q^`" x="-3112" y="1084">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition149</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id=")YWw1*}5$6x3a_KT|fwO" x="-3112" y="1084">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition173</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="Hw77^t*F5m`%0E.od}=X" x="-2585" y="1057">
@@ -4642,18 +4619,39 @@
 <field name="NAME">ArmElbowPosition55</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="v*F3v((Fhe2qF@2h+#(#" x="-2585" y="1057">
+<block type="procedures_defnoreturn" id="1]8,#ULzuL/IypN=c((]" x="-2585" y="1057">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition79</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="e.k=G5pi5G|i#X7Q`qb}" x="-2585" y="1057">
+<block type="procedures_defnoreturn" id="1ht:guM$*cD@;omWFHtN" x="-2585" y="1057">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition72</field>
+<field name="NAME">ArmElbowPosition103</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="fOK.cAN;,l!SbO?Tv$Y5" x="-2585" y="1057">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition127</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="@R?r(!4]x5^#S}NL2.2y" x="-2585" y="1057">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition151</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="wtl:$dcaNgBLsD5p{W^a" x="-2585" y="1057">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition175</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="fpY?SDN9c8=AL8u$}3G9" x="-1965" y="1103">
@@ -5292,18 +5290,39 @@
 <field name="NAME">ArmElbowPosition60</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="]FP@8[c7*W|O;o(nvhew" x="-3152" y="1430">
+<block type="procedures_defnoreturn" id="=ZK7Zg(=HzSR`|?U8+$j" x="-3152" y="1430">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition84</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="7HAy:iaeXy:NXMoZAA)K" x="-3152" y="1430">
+<block type="procedures_defnoreturn" id="C_J=*5p=rw9+qk=e[T`y" x="-3152" y="1430">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition95</field>
+<field name="NAME">ArmElbowPosition108</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="OV0Y4,X/BHKUD_QST%@=" x="-3152" y="1430">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition132</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="3srIJKU]L^2Qj^ZZiawr" x="-3152" y="1430">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition156</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="ViEnwmYVu)B5H0mGkSoE" x="-3152" y="1430">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition180</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="JVImMpSO%jwH?e5]w-oB" x="-2522" y="1478">
@@ -5327,18 +5346,39 @@
 <field name="NAME">ArmElbowPosition62</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="/YMdPks8eGtjCj;nBUgf" x="-2522" y="1478">
+<block type="procedures_defnoreturn" id="z6hWXF:in:-Hk,bx*de]" x="-2522" y="1478">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition86</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="JY*V;!_Z0f@rtR}v8,yk" x="-2522" y="1478">
+<block type="procedures_defnoreturn" id="[ap2hnHU!Gfg0aBmVtaq" x="-2522" y="1478">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition97</field>
+<field name="NAME">ArmElbowPosition110</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="j/|vzsh7J^I@^N(~n:`L" x="-2522" y="1478">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition134</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="M4:wcK(0QD$:guh`-tTL" x="-2522" y="1478">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition158</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="nSgjGKs3ljG59HAh*:@*" x="-2522" y="1478">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition182</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="_75hagg!?~1h*ChzKo$/" x="-1916" y="1466">
@@ -5362,18 +5402,39 @@
 <field name="NAME">ArmElbowPosition58</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="#$1T0l}j:u-wLxtB0HaB" x="-1916" y="1466">
+<block type="procedures_defnoreturn" id="!-Q-vAgYH/XNcu5=$RwX" x="-1916" y="1466">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition82</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="%5UW23eF@jKkC,^e1kFa" x="-1916" y="1466">
+<block type="procedures_defnoreturn" id="kVoBp-J}C{})QTI3|%dB" x="-1916" y="1466">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition75</field>
+<field name="NAME">ArmElbowPosition106</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="FOFnR+U3m[`7O-5CDi29" x="-1916" y="1466">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition130</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="KoXhID,*?VgH(9VS20Hs" x="-1916" y="1466">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition154</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="aKx/i_v`oeqv;/C(94;G" x="-1916" y="1466">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition178</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="TfND0||o~cwxOqS2w[Ss" x="-3152" y="1634">
@@ -5397,18 +5458,39 @@
 <field name="NAME">ArmElbowPosition61</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="/DS}wn6hM|rtWSa?npis" x="-3152" y="1634">
+<block type="procedures_defnoreturn" id="h3w2S*M7k~^GUBtz$/0I" x="-3152" y="1634">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition85</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="DD9xPQnCUWC~MGEuR!TT" x="-3152" y="1634">
+<block type="procedures_defnoreturn" id="ilRc}t.,:5:gxvKSLKG?" x="-3152" y="1634">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition96</field>
+<field name="NAME">ArmElbowPosition109</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="!Ds{QDe8HXv04mlu`NmG" x="-3152" y="1634">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition133</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="QrL5IT,E6L/o;2:@;Rp|" x="-3152" y="1634">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition157</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="[8yWL2RKE6K6pS6]`.,!" x="-3152" y="1634">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition181</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="zczTB=W],=qY8OqS!ARZ" x="-537" y="1526">
@@ -5607,18 +5689,39 @@
 <field name="NAME">ArmElbowPosition63</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id=";%x]MQxSER#wSp`$wBIh" x="-2522" y="1682">
+<block type="procedures_defnoreturn" id="S$y4+Ymw*f)hiKmJ)[I_" x="-2522" y="1682">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition87</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="B}rQ@{Xw4p3M%D:cCZlu" x="-2522" y="1682">
+<block type="procedures_defnoreturn" id="|kvx#5=mCebpp:pGSPCT" x="-2522" y="1682">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition98</field>
+<field name="NAME">ArmElbowPosition111</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="JY9o=K:?aPJnT2$18u(]" x="-2522" y="1682">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition135</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id=".K$+eJSzaOr{YWWloOsP" x="-2522" y="1682">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition159</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="uehp3=Y:WsA8vdBvC9(e" x="-2522" y="1682">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition183</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="wmHOK]3Z6Ve|}OQ6/+!O" x="-1916" y="1670">
@@ -5642,18 +5745,39 @@
 <field name="NAME">ArmElbowPosition59</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="V#;^j$B,CV5*f$Oo=wS@" x="-1916" y="1670">
+<block type="procedures_defnoreturn" id=",2X~U?p+4~pxrCP=-t93" x="-1916" y="1670">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition83</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="w$4ik8eI[KDojP@P9]$p" x="-1916" y="1670">
+<block type="procedures_defnoreturn" id="{zTWXW({=OMVtEAX28qs" x="-1916" y="1670">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition94</field>
+<field name="NAME">ArmElbowPosition107</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="~H}7r:0`K@JvzFuZ!MT;" x="-1916" y="1670">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition131</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="iYX84A+:$zhF[*K%g3QE" x="-1916" y="1670">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition155</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="Z?6!/JxBsEB)Wy$l:Biq" x="-1916" y="1670">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition179</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="_n|WhNQ:n[IgK$_)^vak" x="-3181" y="1773">
@@ -6158,6 +6282,580 @@
 </block>
 </statement>
 </block>
+<block type="procedures_defnoreturn" id="ESf,|zDmUG%LEoxcOM)0" x="-1265" y="1930">
+<field name="NAME">SettingInitialValueOfVariables</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="variables_set" id="Y(*g+n,KLI}S?8]]ip_t">
+<field name="VAR" id="L?8T~GfxiBb=,z+X|f6/">LinearDistanceToEncoderValue</field>
+<value name="VALUE">
+<block type="math_number" id="4-ap/UUaOyUE)KQpH^uj">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="qa[/9(}nTE,efZ_7QbjD">
+<field name="VAR" id="H{~14xnwE]T+T(5o)XMy">SlowRatioForMotorsWhenLeftTriggerIsPressed</field>
+<value name="VALUE">
+<block type="math_number" id="X~U[:i!qegJ7yul@W~;4">
+<field name="NUM">0.3</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Qi]KJyb4-_|Q;[9|{;{L">
+<field name="VAR" id="%QiDH/le8?L!$.dATdFV">LowSpeedForElbow</field>
+<value name="VALUE">
+<block type="math_number" id="ys$uX8Yu-g{b7ybn#Mf{">
+<field name="NUM">0.3</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Hg.o*v70W4EU6dR|:mK0">
+<field name="VAR" id="Bd6JT2q-d7^OJ10*H+PF">HighSpeedForElbow</field>
+<value name="VALUE">
+<block type="math_number" id="is`N[TYe~lfP)JPm6:{W">
+<field name="NUM">1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Q7fso/UfTuMvqdsVJyYA">
+<field name="VAR" id="}Jm)-X`fsRVH}X=BjJYm">LowSpeedForErecting</field>
+<value name="VALUE">
+<block type="math_number" id="%.3UfF5[*y}_d~$3NBcj">
+<field name="NUM">1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="BaIqR,UOqiHL7Alnfg:o">
+<field name="VAR" id=",$%{QOwX]+WF.V`{}rsj">HighSpeedForErecting</field>
+<value name="VALUE">
+<block type="math_number" id="!c[n||rCEDBz4q[U^wV!">
+<field name="NUM">1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="8pY4]/wNb/;xQH,Ko.VE">
+<field name="VAR" id="vV-#-/=2EmY*a^poLH?/">BrakeNumForElbowMotor</field>
+<value name="VALUE">
+<block type="math_number" id="M?IWNM:w4Pe7XGl@iGCK">
+<field name="NUM">0.2</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="5(c5:)S8iE_P,^+POhwZ">
+<field name="VAR" id="tWEEY^Y.YJLBZa}W-.hS">SlowArmRangeLow</field>
+<value name="VALUE">
+<block type="math_number" id="2P4Egq|foNj1y7|RecpG">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="2(ln+yKYM%sWKg}1D,b!">
+<field name="VAR" id="j/w:cMN|;G.qEa?%?KaT">SlowArmRangeHigh</field>
+<value name="VALUE">
+<block type="math_number" id="BG(w(Ksq-%f:T_slp``/">
+<field name="NUM">0.3</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="-f+e6H;x]E56QJfu6sjX">
+<field name="VAR" id="jkX-w+T$Qc~hdD0r26yg">MaxWristRange</field>
+<value name="VALUE">
+<block type="math_number" id="TlM24]4|bnDYQXkcW8E-">
+<field name="NUM">0.75</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="b1or~u[AF||}`,A2U|vx">
+<field name="VAR" id="]s)L]%;})(Yr[qf4p-(.">MinWristRange</field>
+<value name="VALUE">
+<block type="math_number" id="_J5yl;3C=C0}P:W39N7:">
+<field name="NUM">0.34</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="WS?!r%iU6O5N|OqvZ[`T">
+<field name="VAR" id="`!Y_SntT^8%I`_dH{M4d">LeftIntakePosition</field>
+<value name="VALUE">
+<block type="math_number" id="76*hv,M?iRzU}/mKOJ_0">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="3^r@))`H~eVIG(k1Ptu/">
+<field name="VAR" id=";^MbM2U}mr$.T.+~Iy0F">RightIntakePosition</field>
+<value name="VALUE">
+<block type="math_number" id="~:x%RX:aCS|4*S3Hd}`{">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="0^]8+Eo4~U:$J1kpuVaf">
+<field name="VAR" id=";5MD1V#G#ePQ~*A+;O~w">PositionOfWrist</field>
+<value name="VALUE">
+<block type="math_number" id="73lv0)G*d}]E+qr/60I+">
+<field name="NUM">0.13</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="1JjT)8Yaw{R!7MCzTdz{">
+<field name="VAR" id="q}-UQN7Mf]6bFywa?W,~">MinExtensionPosition</field>
+<value name="VALUE">
+<block type="math_number" id="%Q)[|]cUrA`8f$UVd}Uq">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="0MaMHoN(N=~%%f!t1ZN*">
+<field name="VAR" id="R+dU%dGdan)h@lpeftA[">MaxExtensionPosition</field>
+<value name="VALUE">
+<block type="math_number" id="xlqV@X2*,LM=WAuPA9lT">
+<field name="NUM">2570</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="hTO%H1iec^1u4/Mtvv-$">
+<field name="VAR" id="X:z8N;$q7KO9)yTHwBPt">MinElbowPosition</field>
+<value name="VALUE">
+<block type="math_number" id="/*!eFrc`%oXr4gAqg*I/">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="rirxgD!4z-D2`^^*AR2@">
+<field name="VAR" id="D!X}ei98^Ml#Hk6}{u{w">MaxElbowPos</field>
+<value name="VALUE">
+<block type="math_number" id="JFzcl(WbHqzFU^285U_A">
+<field name="NUM">1100</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="lW=sbu^Qk*EWT?DmbvjF">
+<field name="VAR" id="^Xbe%AvR5*EU9ih/Fy,H">ANTICLOCKWISE</field>
+<value name="VALUE">
+<block type="math_number" id="Ag4l1LNP9bchZiizCKCM">
+<field name="NUM">-1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="YD5Jl*X7DWeIP!X*vnIY">
+<field name="VAR" id="A%y~6wjw,{m#W-zmg)CM">CLOCKWISE</field>
+<value name="VALUE">
+<block type="math_number" id="#V]4!6Nd;RZnl93Sgo|)">
+<field name="NUM">1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="HM}I#MlbCD+.(8T_lu:0">
+<field name="VAR" id="6to)A6bl^t8Pfi78Bs=2">ScalingMultiplierForElbowPosition</field>
+<value name="VALUE">
+<block type="math_number" id="+{?+]C8=neqKFH$*n%I*">
+<field name="NUM">-5</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="*wsXQa/axGjLaOb$Q]Wq">
+<field name="VAR" id="qZgX_t6MFE}8;^f}EV2H">ScalingMultiplierForExtendingPosition</field>
+<value name="VALUE">
+<block type="math_number" id="Q5H1XAWt9ArbjJU~UH3$">
+<field name="NUM">-20</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="pNo^#d}1%cdRN9FE+/!l">
+<field name="VAR" id="yF.s20E+kl/,5n|Ocvp?">PowerOfExtendingArm</field>
+<value name="VALUE">
+<block type="math_number" id="GC[XP))@Es?dTn`P-0#@">
+<field name="NUM">0.5</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Pu]X,}F7c^^Bd;C4;-9@">
+<field name="VAR" id="CW4q[,j[BwTyGo5|*SSA">BackdropPositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="z2BbmQb/^(/bw6|KnjW}">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="gMuN4dmK`WC+LS6D.byE">
+<field name="VAR" id="^|IehjzuQT#0+4fQbMm`">IntakePositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="B*bd=3_o!7^$|IyIld4b">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Aa#%[1LGh.5WdVw}iDB2">
+<field name="VAR" id="LZw3`*V[~}|B$UFW.Y1H">WristPositionForBackdrop</field>
+<value name="VALUE">
+<block type="math_number" id="EUUVPF.9;,3g^iD=g^-v">
+<field name="NUM">0.4</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="9NK-s/V,,*WbOV3Jk{^Z">
+<field name="VAR" id="p90J{Ip!K*Th*K%Bzqey">PositionOfElbowForBackdrop</field>
+<value name="VALUE">
+<block type="math_number" id="blqSDBVm;E4[X4w.nVR{">
+<field name="NUM">419</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="fi/PL2NOdWfrd|;JKhK6">
+<field name="VAR" id=":6q[L^O=gMo{~`OX`{?0">PositionOfExtensionForBackdrop</field>
+<value name="VALUE">
+<block type="math_number" id="b$+w$pSg[J~1;SQQsD(U">
+<field name="NUM">521</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="TpYJyNKgT4o_2gyTCzYr">
+<field name="VAR" id="HkU46vmw13g+%^UIsuvj">WristPositionForIntake</field>
+<value name="VALUE">
+<block type="math_number" id="4=J^Au.U;=TL42N^=ZI0">
+<field name="NUM">0.7</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="@9kPNtnn1UZ{k6ClS@Tb">
+<field name="VAR" id="hbh2PE[xXe]3IGpxec=F">PositionOfExtensionForIntake</field>
+<value name="VALUE">
+<block type="math_number" id="Zys~(W)Y)p#FjrasVzmA">
+<field name="NUM">1018.0429572798312</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id=",vTqjERRT`G~{Ev|.;01">
+<field name="VAR" id="~G@$Nn)hQK-yh;*?C^_q">PositionOfElbowForIntake</field>
+<value name="VALUE">
+<block type="math_number" id="?Y`KV|z)P18tEtSWLm6*">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="]X,-JS%z+aUm,kjeP/*)">
+<field name="VAR" id="z8gp]=LpLch[KO]X59/r">PositionOfAirplaneLauncher</field>
+<value name="VALUE">
+<block type="math_number" id="W!w}zs(5}V06k9pgvTf@">
+<field name="NUM">1</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id=")#|6hM6+QP/i8~vDUV$]">
+<field name="VAR" id="b]x.Fd(,o9YUr+Gs?`se">MinAirplaneRange</field>
+<value name="VALUE">
+<block type="math_number" id="8x~YR=SFb//+8!%sac#C">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="02:Cn/2_=]s2H20SvWxV">
+<field name="VAR" id="rM7!a=~hO|vZcD@I_~^$">ShrinkingPositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="~gnHGxTo;]fkDwWnfU}]">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="D`+3+uIf6w.^]XL9TOVx">
+<field name="VAR" id="2_9^j11vQ_y2@WIa?ceK">ExtensionShrinkPosition</field>
+<value name="VALUE">
+<block type="math_number" id="c8P%QHcu;kp8:8JCSs+u">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id=".rwPXt`Cw;P_$eG[f=?k">
+<field name="VAR" id="1m$Y;Q8*;?rg?=0:r)hZ">WristShrinkPosition</field>
+<value name="VALUE">
+<block type="math_number" id="+Lv2_Mh(Mg6MSeZiD_kf">
+<field name="NUM">0.13</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Y=3SG*T?EVIIN)@wl8L3">
+<field name="VAR" id="rwzHSPUT^dRnL4B.UIO{">ElbowShrinkPosition</field>
+<value name="VALUE">
+<block type="math_number" id="b_9+)z;XJE;jCVx-buQD">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="I/#sN;DUv?F:%%EXRD29">
+<field name="VAR" id="``Sn-;pDqErK`=/oT:0g">ClimbingPositionSet</field>
+<value name="VALUE">
+<block type="logic_boolean" id="+cjBu*t+S:@/6L9.Pnj?">
+<field name="BOOL">FALSE</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="2xPK$uBbx~p`Z.vFVh}F">
+<field name="VAR" id="OIHK%lJyEj%Q*H[_@eJJ">WristClimbPosition</field>
+<value name="VALUE">
+<block type="math_number" id="~ni|6Sn,;zC!1K%:;(4p">
+<field name="NUM">0.41000000000000025</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="||6mrhc]sjJ!K{0[,=4z">
+<field name="VAR" id="?jI+VTd;od9cbBeNIM#X">ExtensionClimbPosition</field>
+<value name="VALUE">
+<block type="math_number" id="%m*3P*aj0*5ct?bt6;]S">
+<field name="NUM">2570</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="#BYm9jJCL1|!N)yY(;Um">
+<field name="VAR" id="mYU}4)_BRMQT{N=Frix=">ElbowClimbPosition</field>
+<value name="VALUE">
+<block type="math_number" id="F_f:$[u`v9lGGs#3zgu8">
+<field name="NUM">964.9436804652214</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="#s;wjSL@D;Kdi4YUkz`h">
+<field name="VAR" id="zDa^tzaR%$_!|LH~Lsf0">DriveForwardNumber</field>
+<value name="VALUE">
+<block type="math_number" id="4M%fFbdzuaU*7j=zAG)2">
+<field name="NUM">26</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="7V_MAI-T~HCjIpWQsD5s">
+<field name="VAR" id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</field>
+<value name="VALUE">
+<block type="math_number" id="yjKvhI0OSO#EGcH5J3g:">
+<field name="NUM">1340</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="ht#v|Sm9I)DIbWzl_[p%">
+<field name="VAR" id="msM7B^PHFdkk8%`uHJyS">TurnRightTime</field>
+<value name="VALUE">
+<block type="math_number" id="Ikj^)F[lJpe#l)V$=Nv{">
+<field name="NUM">1340</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="uJB(gC+2ml5E`KoP,v(T">
+<field name="VAR" id="!QE_S!b?21yZRu_u`9G_">WristPositionForOutakingOnStrips</field>
+<value name="VALUE">
+<block type="math_number" id="{jw[yFy@VpABkTjwOmrW">
+<field name="NUM">0.77</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="RaE54DnmLSnBOI#1{]4N">
+<field name="VAR" id="IXXbz~apj`z=r*X#Wu|S">ErectArmForOutakingPixelsOnStrip</field>
+<value name="VALUE">
+<block type="math_number" id="qVeWO2aQ7|VaD~mt/K@6">
+<field name="NUM">309</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="1bwnNut.OOTSkGA,#`l*">
+<field name="VAR" id=",6ZTHS]Xk,}QbJMeC;Y@">ElbowArmForOutakingPixelsOnStrip</field>
+<value name="VALUE">
+<block type="math_number" id="LpQScIjTWI--d-td%@1X">
+<field name="NUM">79</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="5U};SMt{5C:8#,abteq%">
+<field name="VAR" id="dr]z5I{Of*v:|dm+zG@1">OutakingTimeForStrips</field>
+<value name="VALUE">
+<block type="math_number" id="C!RxALdr:{?YnE{@]u.;">
+<field name="NUM">1000</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="3$:;sH/w*L8PPx-MV4$1">
+<field name="VAR" id="n%M(82V.o$-3[*yw$*Gm">RetractingErectionPosition</field>
+<value name="VALUE">
+<block type="math_number" id=";wZ*$kgkh3py^w+{16z{">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="F_6VY/:I.f.[4E~RFq$G">
+<field name="VAR" id="RV^1U-M_hXm?u)tkGKJ6">RetractingElbowArmPosition</field>
+<value name="VALUE">
+<block type="math_number" id="Q:r2x4M6l-.C=S`pXCOY">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="`3!`(:gZ$)Q)6MZ2Z0mY">
+<field name="VAR" id="#y@wEHPVAd(N0Zi{*tn:">ComingBackInchesForPark</field>
+<value name="VALUE">
+<block type="math_number" id="Fh[Y1kg#e]hb}Ij?`(}@">
+<field name="NUM">35</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="Eb*/ZRO5w;)L$bT=tw;2">
+<field name="VAR" id="*lbTg9^)`#**$qHe.pbb">ComingForwardInchesForPark</field>
+<value name="VALUE">
+<block type="math_number" id="XN*$u76/-P*E/~.IczDB">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="sS7o9SO)iR$!T]*#,7Vw">
+<field name="VAR" id="*ZbiF.Iv={kswy+s-F4r">DrivingForwardInchesForFront</field>
+<value name="VALUE">
+<block type="math_number" id="8h^Uly6HU4N~fX)QXtuV">
+<field name="NUM">24</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="=?eZH{z5`I1_);$qjLd)">
+<field name="VAR" id="~QG7i_nv3m[./E078)e@">DrivingForwardInchesForBack</field>
+<value name="VALUE">
+<block type="math_number" id="NM+[M*|*d.jx@:J@M[sZ">
+<field name="NUM">80</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="h2^V#]l#l_/+CVPK3EVu">
+<field name="VAR" id="h+N$-luP3W`wlsD]`6;K">rightPixelOnStrip</field>
+<value name="VALUE">
+<block type="math_number" id="}I8V]39Z.wS49-+70WVG">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="ok{;trK_)^R2vZW-g~}8">
+<field name="VAR" id="`=y]uY@Ve@CrZo92a(D/">LeftPixelOnStrip</field>
+<value name="VALUE">
+<block type="math_number" id="pF@:}CuP+Ms$x57ZIn4m">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="V^V{h)V[(3jg=!]1g]kt">
+<field name="VAR" id="MVJr~.%pXDbXuwxYuOsA">MiddlePixelOnStrip</field>
+<value name="VALUE">
+<block type="math_number" id="c)S7/TguS!Gs)(NC@DWo">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
 <block type="procedures_defnoreturn" id="xG|4hLFOI~{`}9i5Ch8G" x="-3132" y="2034">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
@@ -6179,18 +6877,39 @@
 <field name="NAME">ArmElbowPosition64</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="M7!va)a{2HQPaV@,TLT)" x="-3132" y="2034">
+<block type="procedures_defnoreturn" id="`n-e!FPV3]qM$DuD~Wzv" x="-3132" y="2034">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition88</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="46bK-2=Nk2Pnp.A^ObiV" x="-3132" y="2034">
+<block type="procedures_defnoreturn" id="nlQ(R#CRhbR`?G6+,@9j" x="-3132" y="2034">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition99</field>
+<field name="NAME">ArmElbowPosition112</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="G~h}ai9QMuw[GKJrQPv(" x="-3132" y="2034">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition136</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="d212RS)X|].,v0jLG=$q" x="-3132" y="2034">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition160</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="0Zj?.]4Mh^wcS51?k1Mn" x="-3132" y="2034">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition184</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="variables_set" id="fp!gQw3B86)~4UWQjl09" x="595" y="1903">
@@ -6222,18 +6941,39 @@
 <field name="NAME">ArmElbowPosition66</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="nE#b8Y~D2Y{F_aZUtZgw" x="-2542" y="2131">
+<block type="procedures_defnoreturn" id="-W.@Jny~KH3)=/58Q4=n" x="-2542" y="2131">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition90</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id=",^,#whw(s}!n=iGaf/Nl" x="-2542" y="2131">
+<block type="procedures_defnoreturn" id="UpGS|Tkx.aRhMb9T!s([" x="-2542" y="2131">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition101</field>
+<field name="NAME">ArmElbowPosition114</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="*y82}7oUMslAFANeu7C?" x="-2542" y="2131">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition138</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="gX5Z4QdhEnFa?02-)usr" x="-2542" y="2131">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition162</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="o8-ZqBHjZ)bg_2iL}n!t" x="-2542" y="2131">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition186</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="~Ra4U,~1um=}h:lpf_O." x="-3132" y="2238">
@@ -6257,18 +6997,39 @@
 <field name="NAME">ArmElbowPosition65</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="+ZPl*B$Z9fBF!R:!aZ0a" x="-3132" y="2238">
+<block type="procedures_defnoreturn" id="KQEHlmZ+m15{Z@JbN9LB" x="-3132" y="2238">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition89</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="EFN*t=_7JdnEt%TFH,rY" x="-3132" y="2238">
+<block type="procedures_defnoreturn" id="rd?80nOJ[B.;@/je73F#" x="-3132" y="2238">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition100</field>
+<field name="NAME">ArmElbowPosition113</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id=";bIyz9Jag-)v3`|V(~Q-" x="-3132" y="2238">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition137</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="rY@J3?p.?A,YfBoN,5n}" x="-3132" y="2238">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition161</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="3IU/R,fz4QTjLZ)XT)q4" x="-3132" y="2238">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition185</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="4Ltg1psB%l:NluybF!~6" x="-1892" y="2259">
@@ -6285,18 +7046,39 @@
 <field name="NAME">ArmElbowPosition68</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="bI_]`CFBS_K:IYlAAVX%" x="-1892" y="2259">
+<block type="procedures_defnoreturn" id="E6g,`3z*lhJfK-nyt$yn" x="-1892" y="2259">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition92</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="WAJ!Fe+xg3%Rdr6U3.nm" x="-1892" y="2259">
+<block type="procedures_defnoreturn" id="qH@hE:knF8+#lW6yO)ip" x="-1892" y="2259">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition103</field>
+<field name="NAME">ArmElbowPosition116</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="$?Ov!`;OU`JVW)NQ}a6!" x="-1892" y="2259">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition140</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="*,[S2Jq2;z`_jQLmvEfo" x="-1892" y="2259">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition164</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="0S?2aqn!d;c4D`Zb2u4o" x="-1892" y="2259">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition188</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="mI{m@z~r5DakCbALr!.q" x="-2542" y="2335">
@@ -6320,18 +7102,39 @@
 <field name="NAME">ArmElbowPosition67</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="J:-+*Hp]A;BA5;(8f,+Z" x="-2542" y="2335">
+<block type="procedures_defnoreturn" id="!ehW:f^?OaybB;[uG58a" x="-2542" y="2335">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition91</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="nd7g[dADy7]7BiyXiYMF" x="-2542" y="2335">
+<block type="procedures_defnoreturn" id="[mw;CB|n3T2Cg/`Z,t/*" x="-2542" y="2335">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition102</field>
+<field name="NAME">ArmElbowPosition115</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id=".JUoLxKPUdq*-+|Z=17%" x="-2542" y="2335">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition139</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="@]FLEPW6}-/BAX_7-AXi" x="-2542" y="2335">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition163</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="p1PHbZ6@bT6.j}Kw._T}" x="-2542" y="2335">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition187</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="Xb8$W69DEWPniT~G3q|@" x="-1892" y="2463">
@@ -6348,18 +7151,39 @@
 <field name="NAME">ArmElbowPosition69</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="8=6RF!x1TT(*rr~tqpPH" x="-1892" y="2463">
+<block type="procedures_defnoreturn" id="oD|)cw0%$CFBIv]Ac-p@" x="-1892" y="2463">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
 <field name="NAME">ArmElbowPosition93</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
-<block type="procedures_defnoreturn" id="nv4n65,UgHi[5al}1q*[" x="-1892" y="2463">
+<block type="procedures_defnoreturn" id="FR{x{9B5eO}FchzF`9RH" x="-1892" y="2463">
 <mutation>
 <arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
 </mutation>
-<field name="NAME">ArmElbowPosition104</field>
+<field name="NAME">ArmElbowPosition117</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="*?(hE.sHko^|w7G6bt-A" x="-1892" y="2463">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition141</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="w[~;g]q1$|`Ihn2f3yMf" x="-1892" y="2463">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition165</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+</block>
+<block type="procedures_defnoreturn" id="FkqZ1W!]Ww__YJ|zUCer" x="-1892" y="2463">
+<mutation>
+<arg name="SpeedOfElbow" varid="OcR5AN4`JX*qj}4sEWle"/>
+</mutation>
+<field name="NAME">ArmElbowPosition189</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 </block>
 <block type="procedures_defnoreturn" id="?-zdNR{i~rIm%$]V9hAL" x="-3131" y="2673">
@@ -6466,6 +7290,11 @@
 </block>
 </statement>
 </block>
+<block type="crServo_getProperty_Number" id="ww:4k)9#EngyiQOkuZn." x="-3531" y="2849">
+<field name="IDENTIFIER">frontrightAsCRServo</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"front-right"}</data>
+</block>
 <block type="procedures_defnoreturn" id="S~btOs|q^5NJ;q09J5X6" x="-3103" y="2950">
 <field name="NAME">BlueBackPark</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
@@ -6570,8 +7399,13 @@
 </block>
 </statement>
 </block>
-<block type="variables_get" id="tlo:$D++cOD^H`OR7*t5" x="-3119" y="3286">
-<field name="VAR" id="*lbTg9^)`#**$qHe.pbb">ComingForwardInchesForPark</field>
+<block type="variables_get" id="fadDB))_+(d$F|EQ(k,@" x="-2724" y="3297">
+<field name="VAR" id="*TC,]*y=ckySvjI8@OMU">TurnLeftTime</field>
+</block>
+<block type="crServo_getProperty_Number" id="=t0a%M5UP_;^{Rm`OYZX" x="-2351" y="3578">
+<field name="IDENTIFIER">frontrightAsCRServo</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"front-right"}</data>
 </block>
 </xml>
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
